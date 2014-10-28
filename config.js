@@ -28,7 +28,7 @@ module.exports =
 	"workerManager": {
 		"workerNums": 2
 	},
-	"phantomjs" {
+	"phantomjs": {
 		"maxTasks": 50,
 		"clipRect": 0,
 		"zoomFactor": 0,
