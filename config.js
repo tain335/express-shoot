@@ -25,11 +25,14 @@ module.exports =
 	        "normal": "DEBUG"
 	    }
 	},
-	"workerMan": {
-		"sum": 2,
-		"maxJob": 100,
+	"workerManager": {
+		"workerNums": 2
+	},
+	"phantomjs" {
+		"maxTasks": 50,
 		"clipRect": 0,
 		"zoomFactor": 0,
-		"javascriptEnabled": false 
+		"javascriptEnabled": true,
+		"savePath": __dirname + '/public/static/images/'
 	}
 }
