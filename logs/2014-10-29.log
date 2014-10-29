@@ -22404,3 +22404,13 @@
 [2014-10-29 16:49:29.516] [INFO] normal - server has listened at port 3000
 [2014-10-29 16:49:31.134] [INFO] normal - new connection: 4996532990
 [2014-10-29 16:49:31.179] [INFO] normal - new connection: 4996533001
+[2014-10-29 20:38:11.162] [INFO] normal - worker 1 has started
+[2014-10-29 20:38:11.749] [INFO] normal - init server....
+[2014-10-29 20:38:11.908] [INFO] normal - init task manager.....
+[2014-10-29 20:38:11.910] [INFO] normal - init worker manager....
+[2014-10-29 20:38:11.921] [INFO] normal - create phantomjs worker 4640
+[2014-10-29 20:38:11.926] [INFO] normal - create phantomjs worker 7844
+[2014-10-29 20:38:11.932] [INFO] normal - websocket server has listened at port 3001
+[2014-10-29 20:38:11.933] [INFO] normal - server has listened at port 3000
+[2014-10-29 20:38:13.891] [INFO] normal - new connection: 6964544130
+[2014-10-29 20:38:13.895] [INFO] normal - new connection: 6964544141

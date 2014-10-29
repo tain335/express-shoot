@@ -3,9 +3,27 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Express-Shoot</title>
-		<script src="/javascripts/application.js" type="text/javascript" charset="utf-8" async defer></script>
+		<link rel="stylesheet" href="../css/metro-bootstrap.min.css">
+        <link rel="stylesheet" href="../css/iconFont.min.css">
+        <script src="../js/jquery/main.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../js/jquery-ui/main.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../js/metro/main.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../js/shooter-cli/main.js" charset="utf-8"></script>
 	</head>
-	<body>
-		Welcom to Express-Shoot!	
+	<body class="metro">
+		<h1>Express Shoot</h1>
+		<div style="width: 50%; min-width: 300px; padding-right: 110px; position: relative;margin: 0 auto; vertical-align: middle">
+			<div class="input-control text">
+		    	<input id="url" type="text" value="" placeholder="input url"/>
+			    <button class="btn-clear"></button>
+			</div>
+			<button id="shoot" class="large primary" style="position: absolute; top: -4px; right: 0;">SHOOT</button>
+		</div>
+		<script type="text/javascript">
+			var client = new ShooterCli("/shoots");
+			$("#shoot").on('click', function() {
+				client.shoot($("#url").val());
+			});
+		</script>	
 	</body>
 </html>
