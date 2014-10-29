@@ -1,7 +1,9 @@
+var path = require('path');
 module.exports =
 {
 	"server": {
-		"port": 3000
+		"port": 3000,
+		"imagePath": '/images/'
 	},
 	"logger": {
 		"appenders": [
@@ -11,7 +13,7 @@ module.exports =
 			},
 			{
 			    "type": "dateFile",
-			    "filename": __dirname + "/logs/",
+			    "filename": path.join(__dirname, "/logs/"),
 			    "pattern": "yyyy-MM-dd.log",
 			    // "maxLogSize": 1,
 			    // "backups": 3,
@@ -30,9 +32,14 @@ module.exports =
 	},
 	"phantomjs": {
 		"maxTasks": 50,
+		"format": "png",
+		"viewportSize": {
+			"width": 1024,
+			"height": 1024
+		},
 		"clipRect": 0,
 		"zoomFactor": 0,
 		"javascriptEnabled": true,
-		"savePath": __dirname + '/public/static/images/'
+		"savePath": path.join(__dirname , '/public/static/images/')
 	}
 }
