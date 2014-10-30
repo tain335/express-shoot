@@ -1,29 +1,220 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8">
+		<meta charset="utf-8"/>
 		<title>Express-Shoot</title>
-		<link rel="stylesheet" href="../css/metro-bootstrap.min.css">
-        <link rel="stylesheet" href="../css/iconFont.min.css">
+		<link rel="stylesheet" href="../css/metro-bootstrap.min.css"/>
+        <link rel="stylesheet" href="../css/iconFont.min.css"/>
         <script src="../js/jquery/main.js" type="text/javascript" charset="utf-8"></script>
         <script src="../js/jquery-ui/main.js" type="text/javascript" charset="utf-8"></script>
         <script src="../js/metro/main.js" type="text/javascript" charset="utf-8"></script>
         <script src="../js/shooter-cli/main.js" charset="utf-8"></script>
+        <style type="text/css" media="screen">
+        	.metro .sidebar {
+				float: left;
+				width: 15%;
+				max-width: 300px;
+				position: relative;
+				padding-bottom: 60px;
+				transition: all 0.5s ease;
+				padding: 0 10px;
+			}
+
+			.sidebar .back {
+				transition: all 1s ease;
+			}
+
+			.sidebar.close .back {
+				-webkit-transform: rotate(-180deg);
+				position: fixed;
+				z-index: 9999;
+				left: -25px;
+			}
+
+			.sidebar>ul li:not(:first-child) {
+				position: relative;
+				top: auto;
+				left: -100%;
+				transition: all 0.5s ease;
+			}
+
+			.sidebar>ul li.slideIn {
+				left: 0;
+			}
+
+			.sidebar-footer {
+				position: absolute;
+				bottom: 0;
+				width: 100%;
+				height: 60px;
+				font-size: 40px;
+				text-align: center;
+			}
+
+			.sidebar-footer a {
+				display: inline-block;
+				color: #999999;
+				margin: 0 10px;
+			}
+
+			.main-content {
+				height: 100%;
+				overflow: auto;
+				position: relative;
+			}
+
+			.main {
+				position: absolute;
+				top: 90px;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				margin: 0;
+			}
+
+			.loading {
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				width: 150px;
+				height: 150px;
+				margin: auto;
+				display: none;
+			}
+        </style>
 	</head>
 	<body class="metro">
-		<h1>Express Shoot</h1>
-		<div style="width: 50%; min-width: 300px; padding-right: 110px; position: relative;margin: 0 auto; vertical-align: middle">
-			<div class="input-control text">
-		    	<input id="url" type="text" value="" placeholder="input url"/>
-			    <button class="btn-clear"></button>
+		<h1 style="margin: 0">Express Shoot</h1><!--margin collapse-->
+		<div class="main">
+			<nav id="sidebar" class="sidebar light">
+            	<form>
+	                <fieldset>
+	                    <legend>Settings</legend>
+	                    <label>Format</label>
+	                    <div class="input-control select">
+						    <select id="format">
+						        <option>png</option>
+						        <option>jpeg</option>
+						        <option>gif</option>
+						        <option>pdf</option>
+						    </select>
+						</div>
+	                    <label>Viewport Size</label>
+	                    <div class="input-control text" data-role="input-control">
+	                        <input id="v_w" type="text" placeholder="width" autofocus="" value="1024" style="width: 45%">
+	                        x
+	                        <input id="v_h" type="text" placeholder="height" autofocus="" value="1024" style="width: 45%">
+	                    </div>
+	                    <label>ClipRect</label>
+	                    <div class="input-control text" data-role="input-control">
+	                        <input id="c_t" type="text" placeholder="top" autofocus="" value="0" style="width: 45%">
+	                        x
+	                        <input id="c_l" type="text" placeholder="left" autofocus="" value="0" style="width: 45%">
+	                    </div>
+	                     <div class="input-control text" data-role="input-control">
+	                        <input id="c_w" type="text" placeholder="width" autofocus="" style="width: 45%">
+	                        x
+	                        <input id="c_h" type="text" placeholder="height" autofocus="" style="width: 45%">
+	                    </div>
+	                    <label>Zoom Factor</label>
+	                    <div class="input-control text" data-role="input-control">
+	                        <input id="z_f" type="text" placeholder="" autofocus="" value="1">
+	                    </div>
+	                    <label>Quality</label>
+	                    <div class="input-control text" data-role="input-control">
+	                        <input id="quality" type="text" placeholder="" autofocus="" value="100">
+	                    </div>
+	                    <!-- <div  class="input-control switch">
+						    <label>
+						    	Javascript Enabled
+						        <input id="js" type="checkbox" checked="checked" />
+						        <span class="check"></span>
+						    </label>
+						</div> -->
+	                    <input id="updateSetting" type="submit" value="OK" style="width: 100%; display: block;">
+	                </fieldset>
+	            </form>
+            	<div class="sidebar-footer">
+					<a id="toggleSidebar" class="back" href="javascript:void(0)" onclick="return false;"><i class="icon-arrow-left-3"></i></a>
+				</div>
+        	</nav>
+        	<div class="main-content">
+				<div style="width: 50%; min-width: 300px; padding-right: 110px; position: relative;margin: 0 auto; vertical-align: middle">
+					<div class="input-control text">
+				    	<input id="url" type="text" value="http://www.baidu.com" placeholder="input url"/>
+					    <button class="btn-clear"></button>
+					</div>
+					<button id="shoot" class="large primary" style="position: absolute; top: -4px; right: 0;">SHOOT</button>
+				</div>
+				<div class="image-body" style="text-align: center">
+
+				</div>
+				<div class="loading">
+					<img src="/images/loading.gif" alt=""/>
+				</div>
 			</div>
-			<button id="shoot" class="large primary" style="position: absolute; top: -4px; right: 0;">SHOOT</button>
 		</div>
 		<script type="text/javascript">
+			var options = fetchOptions();
 			var client = new ShooterCli("/shoots");
 			$("#shoot").on('click', function() {
-				client.shoot($("#url").val());
+				$('.loading').show();
+				client.shoot($("#url").val(), function(task) {
+					if(task.status === 4) {
+						var img = document.createElement('img');
+						img.onload = function() {
+							var width = img.width,
+								height = img.height,
+								$img = $(img);
+							$img.addClass('polaroid');
+							$('.metro .image-body').empty().append($img);
+							$('.loading').hide();
+						}
+						img.src = task.src;
+					}
+				}, options);
 			});
+			$('#url').on('keyup', function(evt) {
+				if(evt.keyCode === 13) {
+					$("#shoot").trigger('click');
+				}
+			});
+			$('#toggleSidebar').click(function() {
+				var sidebar = $('#sidebar');
+				if(!sidebar.hasClass('close')) {
+					sidebar.css('marginLeft', -sidebar.outerWidth());
+				} else {
+					sidebar.css('marginLeft', 0);
+				}
+				sidebar.toggleClass('close');
+			});
+
+			$('#updateSetting').on('click', function(evt) {
+				evt.preventDefault();
+				options = fetchOptions()
+				$.Notify.show("Update Successfuly!").close(1000);
+			});
+
+			function fetchOptions() {
+				return {
+					format: $('#format').find('option:selected').text(),
+					viewportSize: {
+						width: +$('#v_w').val(),
+						height: +$('#v_h').val()
+					},
+					clipRect: {
+						top: +$('#c_t').val(),
+						left: +$('#c_l').val(),
+						width: $('#c_w').val(),
+						height: $('#c_h').val()
+					},
+					quality: $('#quality').val(),
+					zoomFactor: +$('#z_f').val()
+					// javascriptEnable: !!$('#js:checked').length
+				}
+			}
 		</script>	
 	</body>
 </html>

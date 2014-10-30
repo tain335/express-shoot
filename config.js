@@ -38,7 +38,11 @@ module.exports =
 			"width": 1024,
 			"height": 1024
 		},
-		"clipRect": 0,
+		"clipRect": {
+			"top": 0,
+			"left": 0
+		},
+		"quality": "100",
 		"zoomFactor": 0,
 		"javascriptEnabled": true,
 		"savePath": path.join(__dirname , '/public/static/images/')

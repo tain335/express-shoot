@@ -1,6 +1,7 @@
 var cluster = require('cluster'),
 	logger = require('./lib/logger').getLogger('normal'),
-	server = require('./lib/server');
+	server = require('./lib/server'),
+	domain = require('domain');
 
 process.on('uncaughtException', function(err) {
 	logger.error(err.message);
@@ -21,6 +22,14 @@ if(cluster.isMaster) {
 		logger.info('worker %s restart successfully.', worker.id);
 	});
 } else {
-	server.start();
+	var serverd = domain.create();
+	serverd.on('error', function(err) {
+		logger.error('server happen errors!');
+		logger.error(err);
+		process.exit(1);
+	})
+	serverd.run(function() {
+		server.start();
+	});
 }
 

@@ -28,7 +28,12 @@ var ShooterCli;
 				}
 			}
 		}
-		$.post(this.path, data).done(handle);
+		$.ajax({
+			type: "post",
+			url: this.path,
+			contentType: "application/json",
+			data: JSON.stringify(data)
+		}).done(handle);
 	};
 
 	Client.prototype.check = function(uid, callback) {
