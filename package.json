@@ -8,15 +8,14 @@
     "q": "~1.0.1",
     "uuid": "~2.0.1",
     "log4js": "~0.6.21",
-    "node-schedule": "~0.1.13",
     "node-websocket-server": "*",
-    "exokie-parser": "*",
-    "bopress-session": "*",
-    "cody-parser": "*",
     "cookie-parser": "*",
-    "static-favicon": "*",
+    "express-session": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
     "method-override": "*",
-    "serve-favicon": "*"
+    "serve-favicon": "*",
+    "later": "*"
   },
   "devDependencies": {},
   "scripts": {

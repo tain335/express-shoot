@@ -452,3 +452,5 @@ Error: test
 [2014-10-30 18:18:38.283] [INFO] normal - connection 10264654071 log: shoot url success: https://www.npmjs.org/package/express-domain-middleware
 [2014-10-30 18:18:40.760] [DEBUG] normal - POST 200 /shoots
 [2014-10-30 18:18:40.782] [DEBUG] normal - GET 200 /images/768a32e0-0368-43f1-9b46-e131d0477617.gif
+[2014-10-30 18:34:57.238] [ERROR] normal - close connection: 10264654071
+[2014-10-30 18:34:57.388] [WARN] normal - phantomjs worker 3376 is closed

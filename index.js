@@ -4,6 +4,7 @@ var cluster = require('cluster'),
 	domain = require('domain');
 
 process.on('uncaughtException', function(err) {
+	logger.error('GLOBAL');
 	logger.error(err.message);
 	logger.error(err.stack);
 });

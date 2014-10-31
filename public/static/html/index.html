@@ -73,14 +73,12 @@
 			}
 
 			.loading {
-				position: absolute;
-				top: 0;
-				left: 0;
-				right: 0;
-				bottom: 0;
+				position: fixed;
+				top: 50%;
+				left: 50%;
 				width: 150px;
 				height: 150px;
-				margin: auto;
+				margin: -75px 0 0 -75px;
 				display: none;
 			}
         </style>
@@ -124,7 +122,7 @@
 	                    </div>
 	                    <label>Quality</label>
 	                    <div class="input-control text" data-role="input-control">
-	                        <input id="quality" type="text" placeholder="" autofocus="" value="100">
+	                        <input id="quality" type="text" placeholder="" autofocus="" value="10">
 	                    </div>
 	                    <!-- <div  class="input-control switch">
 						    <label>
@@ -143,7 +141,7 @@
         	<div class="main-content">
 				<div style="width: 50%; min-width: 300px; padding-right: 110px; position: relative;margin: 0 auto; vertical-align: middle">
 					<div class="input-control text">
-				    	<input id="url" type="text" value="http://www.baidu.com" placeholder="input url"/>
+				    	<input id="url" type="text" value="http://www.csdn.net" placeholder="input url"/>
 					    <button class="btn-clear"></button>
 					</div>
 					<button id="shoot" class="large primary" style="position: absolute; top: -4px; right: 0;">SHOOT</button>
