@@ -1,0 +1,415 @@
+[2014-11-04 16:11:10.872] [INFO] normal - worker 1 has started
+[2014-11-04 16:11:11.918] [INFO] normal - init server....
+[2014-11-04 16:11:12.117] [INFO] normal - init task manager.....
+[2014-11-04 16:11:12.155] [INFO] normal - init worker manager....
+[2014-11-04 16:11:12.364] [INFO] normal - create phantomjs worker 5068
+[2014-11-04 16:11:12.368] [INFO] normal - create phantomjs worker 8296
+[2014-11-04 16:11:12.382] [INFO] normal - websocket server has listened at port 3001
+[2014-11-04 16:11:12.384] [INFO] normal - server has listened at port 3000
+[2014-11-04 16:11:16.242] [DEBUG] normal - new connection: 5280617350
+[2014-11-04 16:11:16.356] [DEBUG] normal - new connection: 5280617361
+[2014-11-04 16:11:31.190] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 16:11:31.723] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 16:11:31.734] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 16:11:31.740] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 16:11:31.756] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 16:11:31.792] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 16:11:31.835] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 16:11:32.236] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 16:11:32.551] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 16:11:44.781] [DEBUG] normal - GET 200 /fonts/metroSysIcons.woff
+[2014-11-04 16:11:47.844] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.ibm.com/developerworks/library/wa-finitemach1/#table-as-designed
+[2014-11-04 16:11:58.182] [DEBUG] normal - connection 5280617350 log: time: 10395
+[2014-11-04 16:11:58.182] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.ibm.com/developerworks/library/wa-finitemach1/#table-as-designed
+[2014-11-04 16:12:00.016] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:12:02.413] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 16:12:02.460] [DEBUG] normal - GET 200 /images/1f8ee34c-e38e-45bf-8cc7-ea3ccd6912ef.png
+[2014-11-04 16:14:26.642] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 16:14:26.646] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 16:15:00.009] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:17:50.767] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 16:17:50.929] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 16:17:50.950] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 16:17:50.974] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 16:17:50.992] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 16:17:51.015] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 16:17:51.018] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 16:17:51.021] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 16:17:51.174] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 16:18:00.001] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:19:45.145] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 16:19:45.334] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 16:19:45.363] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 16:19:45.371] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 16:19:45.377] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 16:19:45.379] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 16:19:45.383] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 16:19:45.389] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 16:19:45.575] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 16:20:02.780] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 16:20:17.470] [DEBUG] normal - connection 5280617350 log: time: 14690
+[2014-11-04 16:20:17.470] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 16:20:21.641] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 16:20:21.695] [DEBUG] normal - GET 200 /images/016d3f4f-560c-4909-8fe4-832dc35da70e.png
+[2014-11-04 16:21:00.000] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:23:58.077] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 16:23:58.325] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 16:23:58.333] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 16:23:58.337] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2014-11-04 16:23:58.339] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2014-11-04 16:23:58.340] [DEBUG] normal - GET 304 /js/metro/main.js
+[2014-11-04 16:23:58.345] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2014-11-04 16:23:58.349] [DEBUG] normal - GET 304 /images/loading.gif
+[2014-11-04 16:23:58.482] [DEBUG] normal - GET 304 /fonts/iconFont.woff
+[2014-11-04 16:24:00.006] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:24:01.407] [DEBUG] normal - GET 200 /fonts/metroSysIcons.woff
+[2014-11-04 16:24:03.772] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 16:24:11.976] [DEBUG] normal - connection 5280617361 log: time: 8273
+[2014-11-04 16:24:11.977] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 16:24:16.141] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 16:24:16.197] [DEBUG] normal - GET 200 /images/853c5918-4fe4-4b2b-af0f-db72c9e7024a.png
+[2014-11-04 16:24:27.869] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 16:24:27.879] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 16:24:56.296] [DEBUG] normal - GET 304 /images/853c5918-4fe4-4b2b-af0f-db72c9e7024a.png
+[2014-11-04 16:26:45.907] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 16:26:46.155] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 16:26:46.218] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 16:26:46.227] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 16:26:46.260] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 16:26:46.298] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 16:26:46.324] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 16:26:46.349] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 16:26:46.551] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 16:26:48.406] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 16:27:00.003] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:27:02.980] [DEBUG] normal - connection 5280617350 log: time: 14574
+[2014-11-04 16:27:02.981] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 16:27:06.796] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 16:27:06.864] [DEBUG] normal - GET 200 /images/9508bd2d-3a3c-406c-a6ed-c1db15daf3fe.png
+[2014-11-04 16:29:38.810] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 16:29:39.047] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 16:29:39.053] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 16:29:39.065] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 16:29:39.083] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 16:29:39.093] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 16:29:39.122] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 16:29:39.126] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 16:29:39.277] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 16:29:40.531] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 16:29:46.797] [DEBUG] normal - connection 5280617361 log: time: 6267
+[2014-11-04 16:29:46.798] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 16:29:50.525] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 16:29:50.597] [DEBUG] normal - GET 200 /images/6ed55372-f403-4caa-bdb0-709a24df27f4.png
+[2014-11-04 16:29:59.995] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:33:00.004] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:36:00.000] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:38:59.999] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:42:00.003] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:44:59.998] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:48:00.009] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:50:59.998] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:54:00.005] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:57:00.006] [INFO] normal - start clear finished tasks...
+[2014-11-04 16:59:59.997] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:02:59.996] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:06:00.001] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:09:00.004] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:11:59.994] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:15:00.025] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:18:00.012] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:20:59.994] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:24:00.003] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:27:00.005] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:30:00.081] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:32:45.201] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:32:45.605] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2014-11-04 17:32:45.644] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2014-11-04 17:32:45.669] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2014-11-04 17:32:45.670] [DEBUG] normal - GET 304 /js/metro/main.js
+[2014-11-04 17:32:45.705] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 17:32:45.784] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 17:32:45.804] [DEBUG] normal - GET 304 /images/loading.gif
+[2014-11-04 17:32:46.105] [DEBUG] normal - GET 304 /fonts/iconFont.woff
+[2014-11-04 17:32:51.701] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 17:33:00.000] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:33:06.420] [DEBUG] normal - connection 5280617361 log: time: 14833
+[2014-11-04 17:33:06.420] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:33:07.737] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 17:33:07.744] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 17:33:10.465] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:33:10.553] [DEBUG] normal - GET 200 /images/1dedb17c-ce9e-4129-bb8a-9986bbcb67e1.png
+[2014-11-04 17:33:43.134] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:33:43.418] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:33:43.428] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:33:43.437] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:33:43.446] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:33:43.454] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:33:43.476] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:33:43.519] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:33:43.726] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:34:25.849] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:34:26.085] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:34:26.091] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:34:26.095] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:34:26.099] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:34:26.105] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:34:26.111] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:34:26.119] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:34:26.304] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:34:30.131] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 17:34:36.729] [DEBUG] normal - connection 5280617361 log: time: 6599
+[2014-11-04 17:34:36.730] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:34:40.381] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:34:40.468] [DEBUG] normal - GET 200 /images/99de672d-2138-4cbd-898b-6fe13a600f00.png
+[2014-11-04 17:35:15.681] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:35:15.929] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:35:15.947] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:35:15.953] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:35:15.955] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:35:15.957] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:35:15.966] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:35:15.973] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:35:16.146] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:35:21.157] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 17:35:43.262] [DEBUG] normal - connection 5280617350 log: time: 22489
+[2014-11-04 17:35:43.262] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:35:47.417] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:35:47.525] [DEBUG] normal - GET 200 /images/68bec2f5-6361-4bcd-ba91-50236f68d518.png
+[2014-11-04 17:35:59.999] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:36:26.366] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:36:26.617] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:36:26.624] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:36:26.625] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:36:26.627] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:36:26.636] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:36:26.640] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:36:26.649] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:36:26.822] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:36:28.440] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 17:36:34.602] [DEBUG] normal - connection 5280617361 log: time: 6163
+[2014-11-04 17:36:34.603] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:36:38.331] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:36:38.417] [DEBUG] normal - GET 200 /images/17e115e3-173a-420f-99b9-986eec64cadf.png
+[2014-11-04 17:37:07.419] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:37:07.727] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:37:07.736] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:37:07.924] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:37:07.940] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:37:07.944] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:37:08.008] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:37:08.011] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:37:08.343] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:37:41.567] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:37:41.795] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:37:41.804] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:37:41.818] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:37:41.835] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:37:41.869] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:37:41.871] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:37:41.872] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:37:42.445] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:37:46.048] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 17:37:52.138] [DEBUG] normal - connection 5280617350 log: time: 6086
+[2014-11-04 17:37:52.139] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:37:55.843] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:39:00.005] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:39:00.412] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:39:00.644] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:39:00.672] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:39:00.694] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:39:00.715] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:39:00.716] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:39:00.718] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:39:00.721] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:39:01.225] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:39:18.577] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 17:39:24.736] [DEBUG] normal - connection 5280617350 log: time: 6159
+[2014-11-04 17:39:24.737] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:39:28.466] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:39:28.538] [DEBUG] normal - GET 200 /images/68b826b3-5b62-490f-9141-1bc22937a93f.png
+[2014-11-04 17:40:21.812] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:40:22.011] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:40:22.035] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:40:22.046] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:40:22.079] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:40:22.080] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:40:22.081] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:40:22.082] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:40:22.339] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:40:24.049] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 17:40:31.880] [DEBUG] normal - connection 5280617361 log: time: 7833
+[2014-11-04 17:40:31.881] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:40:35.624] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:40:35.693] [DEBUG] normal - GET 200 /images/ab8d10ed-0d26-49d3-815d-c642d73be547.png
+[2014-11-04 17:41:48.146] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:41:48.413] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2014-11-04 17:41:48.465] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2014-11-04 17:41:48.468] [DEBUG] normal - GET 200 /js/metro/main.js
+[2014-11-04 17:41:48.474] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2014-11-04 17:41:48.481] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2014-11-04 17:41:48.483] [DEBUG] normal - GET 200 /images/loading.gif
+[2014-11-04 17:41:48.484] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2014-11-04 17:41:48.715] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2014-11-04 17:41:50.642] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 17:41:56.683] [DEBUG] normal - connection 5280617350 log: time: 6042
+[2014-11-04 17:41:56.683] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:41:59.996] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:42:00.398] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:42:00.444] [DEBUG] normal - GET 200 /images/eff84d32-8494-4c2b-88e8-a3d3500d717a.png
+[2014-11-04 17:42:06.094] [DEBUG] normal - GET 200 /fonts/metroSysIcons.woff
+[2014-11-04 17:42:18.219] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.baidu.com
+[2014-11-04 17:42:19.816] [DEBUG] normal - connection 5280617361 log: time: 1598
+[2014-11-04 17:42:19.816] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:42:22.007] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:42:22.026] [DEBUG] normal - GET 200 /images/507cf711-fa3a-4fda-bd50-988ea1ba1e6c.png
+[2014-11-04 17:42:28.992] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.baidu.com
+[2014-11-04 17:42:30.283] [DEBUG] normal - connection 5280617350 log: time: 1291
+[2014-11-04 17:42:30.284] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:42:32.471] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:42:32.490] [DEBUG] normal - GET 200 /images/036168f5-80a3-424a-8cbd-6f5022fadbe8.png
+[2014-11-04 17:43:30.681] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:43:30.810] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 17:43:30.822] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 17:43:30.834] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2014-11-04 17:43:30.847] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2014-11-04 17:43:30.855] [DEBUG] normal - GET 304 /js/metro/main.js
+[2014-11-04 17:43:30.864] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2014-11-04 17:43:30.872] [DEBUG] normal - GET 304 /images/loading.gif
+[2014-11-04 17:43:31.006] [DEBUG] normal - GET 304 /fonts/iconFont.woff
+[2014-11-04 17:43:32.834] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.csdn.net
+[2014-11-04 17:43:38.929] [DEBUG] normal - connection 5280617350 log: time: 6093
+[2014-11-04 17:43:38.930] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:43:42.636] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:43:42.682] [DEBUG] normal - GET 200 /images/e91d908a-c816-419f-a332-08b72c604cc7.png
+[2014-11-04 17:43:44.999] [DEBUG] normal - GET 304 /fonts/metroSysIcons.woff
+[2014-11-04 17:43:54.353] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.baidu.com
+[2014-11-04 17:43:55.909] [DEBUG] normal - connection 5280617361 log: time: 1556
+[2014-11-04 17:43:55.909] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:43:58.020] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:43:58.043] [DEBUG] normal - GET 200 /images/7ce4ccb0-3857-45fa-90e2-3755912fa0de.png
+[2014-11-04 17:44:19.709] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.baidu.com
+[2014-11-04 17:44:21.203] [DEBUG] normal - connection 5280617350 log: time: 1495
+[2014-11-04 17:44:21.204] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:44:23.360] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:44:23.390] [DEBUG] normal - GET 200 /images/8f7de962-0ee9-4837-9104-541d10784d6c.gif
+[2014-11-04 17:44:27.401] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.baidu.com
+[2014-11-04 17:44:27.914] [DEBUG] normal - connection 5280617361 log: time: 514
+[2014-11-04 17:44:27.914] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:44:30.069] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:44:30.109] [DEBUG] normal - GET 200 /images/37aff9b5-785e-404a-a350-c7a8c7fb2bf3.gif
+[2014-11-04 17:44:42.815] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.baidu.com
+[2014-11-04 17:44:43.293] [DEBUG] normal - connection 5280617361 log: time: 478
+[2014-11-04 17:44:43.293] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:44:45.399] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:44:45.419] [DEBUG] normal - GET 200 /images/db4f38dd-241d-4044-9bf1-e5a2e4dfb3cc.jpeg
+[2014-11-04 17:45:00.001] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:45:03.636] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.qq.com
+[2014-11-04 17:45:13.101] [DEBUG] normal - connection 5280617350 log: time: 9466
+[2014-11-04 17:45:13.101] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.qq.com
+[2014-11-04 17:45:16.914] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:45:16.968] [DEBUG] normal - GET 200 /images/cfccc73e-83f4-4ab6-978b-4360192261f1.gif
+[2014-11-04 17:45:50.689] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.qq.com
+[2014-11-04 17:45:58.167] [DEBUG] normal - connection 5280617361 log: time: 7478
+[2014-11-04 17:45:58.167] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.qq.com
+[2014-11-04 17:46:00.344] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:46:00.366] [DEBUG] normal - GET 200 /images/35aaa900-ad53-405a-9aeb-4c98b81e31f3.gif
+[2014-11-04 17:46:14.142] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.baidu.com
+[2014-11-04 17:46:14.675] [DEBUG] normal - connection 5280617361 log: time: 535
+[2014-11-04 17:46:14.675] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:46:16.724] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:46:16.748] [DEBUG] normal - GET 200 /images/15f314bd-cd34-447d-b43e-50b272e378d3.gif
+[2014-11-04 17:47:09.104] [DEBUG] normal - connection 5280617350 log: shoot url: http://www.baidu.com
+[2014-11-04 17:47:11.281] [DEBUG] normal - connection 5280617350 log: time: 2179
+[2014-11-04 17:47:11.282] [DEBUG] normal - connection 5280617350 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:47:13.333] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:47:13.356] [DEBUG] normal - GET 200 /images/189bf851-dd7f-4c37-b427-898f382dfe7b.gif
+[2014-11-04 17:47:59.996] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:51:00.001] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:51:39.905] [DEBUG] normal - GET 200 /html/index.html?
+[2014-11-04 17:51:40.045] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 17:51:40.056] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 17:51:40.068] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2014-11-04 17:51:40.078] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2014-11-04 17:51:40.086] [DEBUG] normal - GET 304 /js/metro/main.js
+[2014-11-04 17:51:40.168] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2014-11-04 17:51:40.177] [DEBUG] normal - GET 304 /images/loading.gif
+[2014-11-04 17:51:40.252] [DEBUG] normal - GET 304 /fonts/iconFont.woff
+[2014-11-04 17:51:50.488] [DEBUG] normal - connection 5280617361 log: shoot url: http://www.csdn.net
+[2014-11-04 17:51:56.536] [DEBUG] normal - connection 5280617361 log: time: 6050
+[2014-11-04 17:51:56.537] [DEBUG] normal - connection 5280617361 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:52:00.207] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:52:00.258] [DEBUG] normal - GET 200 /images/6f9edf09-3a48-49af-bf57-8e437ddfac77.png
+[2014-11-04 17:52:52.660] [DEBUG] normal - GET 304 /fonts/metroSysIcons.woff
+[2014-11-04 17:52:55.031] [DEBUG] normal - connection 5280617350 log: shoot url: http://msdn.microsoft.com/en-us/library/aa478972.aspx
+[2014-11-04 17:52:58.401] [DEBUG] normal - connection 5280617350 log: time: 3371
+[2014-11-04 17:52:58.401] [DEBUG] normal - connection 5280617350 log: shoot url success: http://msdn.microsoft.com/en-us/library/aa478972.aspx
+[2014-11-04 17:53:03.519] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:53:03.566] [DEBUG] normal - GET 200 /images/ae26f937-a5a8-44da-ae8b-c2ef01ee3954.png
+[2014-11-04 17:54:00.001] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:54:32.531] [INFO] normal - worker 1 has started
+[2014-11-04 17:54:33.019] [INFO] normal - init server....
+[2014-11-04 17:54:33.329] [INFO] normal - init task manager.....
+[2014-11-04 17:54:33.339] [INFO] normal - init worker manager....
+[2014-11-04 17:54:33.909] [INFO] normal - create phantomjs worker 9480
+[2014-11-04 17:54:33.914] [INFO] normal - create phantomjs worker 2956
+[2014-11-04 17:54:33.923] [INFO] normal - websocket server has listened at port 3001
+[2014-11-04 17:54:33.925] [INFO] normal - server has listened at port 3000
+[2014-11-04 17:54:36.929] [DEBUG] normal - new connection: 8640643040
+[2014-11-04 17:54:36.932] [DEBUG] normal - new connection: 8640643051
+[2014-11-04 17:54:40.936] [DEBUG] normal - GET 304 /html/index.html?
+[2014-11-04 17:54:41.182] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2014-11-04 17:54:41.183] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2014-11-04 17:54:41.186] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2014-11-04 17:54:41.193] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2014-11-04 17:54:41.202] [DEBUG] normal - GET 304 /js/metro/main.js
+[2014-11-04 17:54:41.213] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2014-11-04 17:54:41.223] [DEBUG] normal - GET 304 /images/loading.gif
+[2014-11-04 17:54:43.883] [DEBUG] normal - connection 8640643040 log: shoot url: http://www.csdn.net
+[2014-11-04 17:55:00.444] [DEBUG] normal - connection 8640643040 log: time: 16569
+[2014-11-04 17:55:00.444] [DEBUG] normal - connection 8640643040 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:55:02.564] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:55:02.613] [DEBUG] normal - GET 200 /images/9c035b41-aae9-4373-8ec7-57f1d44d87a1.png
+[2014-11-04 17:55:06.521] [DEBUG] normal - connection 8640643040 log: shoot url: http://www.csdn.net
+[2014-11-04 17:55:12.583] [DEBUG] normal - connection 8640643040 log: time: 6062
+[2014-11-04 17:55:12.584] [DEBUG] normal - connection 8640643040 log: shoot url success: http://www.csdn.net
+[2014-11-04 17:55:14.318] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:55:14.378] [DEBUG] normal - GET 200 /images/20474a1a-a9bd-4b99-b560-b177c06dbac9.png
+[2014-11-04 17:55:18.229] [DEBUG] normal - GET 304 /fonts/metroSysIcons.woff
+[2014-11-04 17:55:31.558] [DEBUG] normal - connection 8640643040 log: shoot url: http://www.baidu.com
+[2014-11-04 17:55:32.882] [DEBUG] normal - connection 8640643040 log: time: 1324
+[2014-11-04 17:55:32.884] [DEBUG] normal - connection 8640643040 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:55:33.010] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:55:33.063] [DEBUG] normal - GET 200 /images/d44260b3-ea6e-4265-91b4-796cedfd7f35.png
+[2014-11-04 17:55:42.629] [DEBUG] normal - connection 8640643051 log: shoot url: http://www.baidu.com
+[2014-11-04 17:55:44.822] [DEBUG] normal - connection 8640643051 log: time: 2215
+[2014-11-04 17:55:44.823] [DEBUG] normal - connection 8640643051 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:55:44.947] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:55:44.975] [DEBUG] normal - GET 200 /images/6c9bffa0-425d-45e0-bb7d-73da56d89f65.png
+[2014-11-04 17:56:39.158] [INFO] normal - worker 1 has started
+[2014-11-04 17:56:39.621] [INFO] normal - init server....
+[2014-11-04 17:56:39.652] [INFO] normal - init task manager.....
+[2014-11-04 17:56:39.656] [INFO] normal - init worker manager....
+[2014-11-04 17:56:39.660] [INFO] normal - create phantomjs worker 9980
+[2014-11-04 17:56:39.663] [INFO] normal - create phantomjs worker 384
+[2014-11-04 17:56:39.665] [INFO] normal - websocket server has listened at port 3001
+[2014-11-04 17:56:39.667] [INFO] normal - server has listened at port 3000
+[2014-11-04 17:56:41.708] [DEBUG] normal - new connection: 9152644820
+[2014-11-04 17:56:41.710] [DEBUG] normal - new connection: 9152644831
+[2014-11-04 17:56:54.325] [DEBUG] normal - connection 9152644820 log: shoot url: http://www.baidu.com
+[2014-11-04 17:56:55.397] [DEBUG] normal - connection 9152644820 log: time: 1082
+[2014-11-04 17:56:55.397] [DEBUG] normal - connection 9152644820 log: shoot url success: http://www.baidu.com
+[2014-11-04 17:56:57.537] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:56:57.568] [DEBUG] normal - GET 200 /images/e1b63e45-5286-4b79-af23-668c7c31276d.png
+[2014-11-04 17:57:00.000] [INFO] normal - start clear finished tasks...
+[2014-11-04 17:57:13.857] [DEBUG] normal - connection 9152644820 log: shoot url: http://api.jquery.com/html/
+[2014-11-04 17:57:18.113] [DEBUG] normal - connection 9152644820 log: time: 4255
+[2014-11-04 17:57:18.113] [DEBUG] normal - connection 9152644820 log: shoot url success: http://api.jquery.com/html/
+[2014-11-04 17:57:22.481] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:57:22.510] [DEBUG] normal - GET 200 /images/bbf3cf2a-ac5d-4bf0-83ab-4578c6716407.png
+[2014-11-04 17:58:37.693] [DEBUG] normal - connection 9152644820 log: shoot url: http://www.ibm.com/developerworks/library/wa-finitemach1/
+[2014-11-04 17:58:44.685] [DEBUG] normal - connection 9152644820 log: time: 6994
+[2014-11-04 17:58:44.685] [DEBUG] normal - connection 9152644820 log: shoot url success: http://www.ibm.com/developerworks/library/wa-finitemach1/
+[2014-11-04 17:58:48.239] [DEBUG] normal - POST 200 /shoots
+[2014-11-04 17:58:48.270] [DEBUG] normal - GET 200 /images/dbaccf8b-a26f-4a52-a038-f53fa7053d7a.png
+[2014-11-04 18:00:00.007] [INFO] normal - start clear finished tasks...
+[2014-11-04 18:02:59.995] [INFO] normal - start clear finished tasks...
