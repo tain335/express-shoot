@@ -1,0 +1,182 @@
+[2015-01-20 15:07:59.614] [INFO] normal - worker 1 has started
+[2015-01-20 15:08:00.029] [ERROR] normal - GLOBAL
+[2015-01-20 15:08:00.029] [ERROR] normal - write EINVAL - cannot write to IPC channel.
+[2015-01-20 15:08:00.031] [ERROR] normal - Error: write EINVAL - cannot write to IPC channel.
+    at errnoException (child_process.js:1011:11)
+    at ChildProcess.target.send (child_process.js:465:16)
+    at Worker.send (cluster.js:406:21)
+    at sendInternalMessage (cluster.js:399:10)
+    at handleResponse (cluster.js:177:5)
+    at respond (cluster.js:192:5)
+    at Object.messageHandler.queryServer (cluster.js:247:5)
+    at handleMessage (cluster.js:197:32)
+    at ChildProcess.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+[2015-01-20 15:07:59.990] [INFO] normal - init server....
+[2015-01-20 15:08:00.024] [INFO] normal - init task manager.....
+[2015-01-20 15:08:00.028] [INFO] normal - init worker manager....
+[2015-01-20 15:08:00.056] [INFO] normal - create phantomjs worker 8508
+[2015-01-20 15:08:00.093] [INFO] normal - create phantomjs worker 2576
+[2015-01-20 15:08:00.095] [ERROR] normal - GLOBAL
+[2015-01-20 15:08:00.095] [ERROR] normal - write EINVAL - cannot write to IPC channel.
+[2015-01-20 15:08:00.096] [ERROR] normal - Error: write EINVAL - cannot write to IPC channel.
+    at errnoException (child_process.js:1011:11)
+    at ChildProcess.target.send (child_process.js:465:16)
+    at Worker.send (cluster.js:406:21)
+    at sendInternalMessage (cluster.js:399:10)
+    at handleResponse (cluster.js:177:5)
+    at respond (cluster.js:192:5)
+    at Object.messageHandler.queryServer (cluster.js:247:5)
+    at handleMessage (cluster.js:197:32)
+    at ChildProcess.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+[2015-01-20 15:08:41.692] [INFO] normal - worker 1 has started
+[2015-01-20 15:08:42.219] [ERROR] normal - GLOBAL
+[2015-01-20 15:08:42.220] [ERROR] normal - write EINVAL - cannot write to IPC channel.
+[2015-01-20 15:08:42.221] [ERROR] normal - Error: write EINVAL - cannot write to IPC channel.
+    at errnoException (child_process.js:1011:11)
+    at ChildProcess.target.send (child_process.js:465:16)
+    at Worker.send (cluster.js:406:21)
+    at sendInternalMessage (cluster.js:399:10)
+    at handleResponse (cluster.js:177:5)
+    at respond (cluster.js:192:5)
+    at Object.messageHandler.queryServer (cluster.js:247:5)
+    at handleMessage (cluster.js:197:32)
+    at ChildProcess.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+[2015-01-20 15:08:42.258] [ERROR] normal - GLOBAL
+[2015-01-20 15:08:42.171] [INFO] normal - init server....
+[2015-01-20 15:08:42.214] [INFO] normal - init task manager.....
+[2015-01-20 15:08:42.218] [INFO] normal - init worker manager....
+[2015-01-20 15:08:42.257] [INFO] normal - create phantomjs worker 7752
+[2015-01-20 15:08:42.259] [ERROR] normal - write EINVAL - cannot write to IPC channel.
+[2015-01-20 15:08:42.260] [ERROR] normal - Error: write EINVAL - cannot write to IPC channel.
+    at errnoException (child_process.js:1011:11)
+    at ChildProcess.target.send (child_process.js:465:16)
+    at Worker.send (cluster.js:406:21)
+    at sendInternalMessage (cluster.js:399:10)
+    at handleResponse (cluster.js:177:5)
+    at respond (cluster.js:192:5)
+    at Object.messageHandler.queryServer (cluster.js:247:5)
+    at handleMessage (cluster.js:197:32)
+    at ChildProcess.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+[2015-01-20 15:08:59.997] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:10:13.490] [INFO] normal - worker 1 has started
+[2015-01-20 15:10:13.992] [ERROR] normal - GLOBAL
+[2015-01-20 15:10:13.992] [ERROR] normal - write EINVAL - cannot write to IPC channel.
+[2015-01-20 15:10:13.993] [ERROR] normal - Error: write EINVAL - cannot write to IPC channel.
+    at errnoException (child_process.js:1011:11)
+    at ChildProcess.target.send (child_process.js:465:16)
+    at Worker.send (cluster.js:406:21)
+    at sendInternalMessage (cluster.js:399:10)
+    at handleResponse (cluster.js:177:5)
+    at respond (cluster.js:192:5)
+    at Object.messageHandler.queryServer (cluster.js:247:5)
+    at handleMessage (cluster.js:197:32)
+    at ChildProcess.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+[2015-01-20 15:10:14.033] [ERROR] normal - GLOBAL
+[2015-01-20 15:10:13.948] [INFO] normal - init server....
+[2015-01-20 15:10:13.986] [INFO] normal - init task manager.....
+[2015-01-20 15:10:13.991] [INFO] normal - init worker manager....
+[2015-01-20 15:10:14.032] [INFO] normal - create phantomjs worker 2148
+[2015-01-20 15:10:14.034] [ERROR] normal - write EINVAL - cannot write to IPC channel.
+[2015-01-20 15:10:14.036] [ERROR] normal - Error: write EINVAL - cannot write to IPC channel.
+    at errnoException (child_process.js:1011:11)
+    at ChildProcess.target.send (child_process.js:465:16)
+    at Worker.send (cluster.js:406:21)
+    at sendInternalMessage (cluster.js:399:10)
+    at handleResponse (cluster.js:177:5)
+    at respond (cluster.js:192:5)
+    at Object.messageHandler.queryServer (cluster.js:247:5)
+    at handleMessage (cluster.js:197:32)
+    at ChildProcess.emit (events.js:117:20)
+    at handleMessage (child_process.js:322:10)
+[2015-01-20 15:12:00.001] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:15:00.008] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:18:00.000] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:21:00.012] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:23:02.357] [INFO] normal - worker 1 has started
+[2015-01-20 15:23:02.835] [INFO] normal - init server....
+[2015-01-20 15:23:02.874] [INFO] normal - init task manager.....
+[2015-01-20 15:23:02.878] [INFO] normal - init worker manager....
+[2015-01-20 15:23:03.181] [INFO] normal - create phantomjs worker 9952
+[2015-01-20 15:23:03.185] [INFO] normal - websocket server has listened at port 3001
+[2015-01-20 15:23:03.187] [INFO] normal - server has listened at port 3000
+[2015-01-20 15:23:04.752] [DEBUG] normal - new connection: 2600122660
+[2015-01-20 15:23:18.504] [DEBUG] normal - GET 200 /html/
+[2015-01-20 15:23:18.607] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-01-20 15:23:18.625] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-01-20 15:23:18.650] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-01-20 15:23:18.653] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-01-20 15:23:18.736] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-01-20 15:23:18.751] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-01-20 15:23:18.765] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-01-20 15:23:18.889] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-01-20 15:23:21.669] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.csdn.net
+[2015-01-20 15:23:41.715] [DEBUG] normal - connection 2600122660 log: time: 20098
+[2015-01-20 15:23:41.716] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.csdn.net
+[2015-01-20 15:23:45.937] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:23:45.982] [DEBUG] normal - GET 200 /images/ca24e342-32bf-479c-95dc-251bdd19c1d1.png
+[2015-01-20 15:23:56.847] [DEBUG] normal - GET 200 /fonts/metroSysIcons.woff
+[2015-01-20 15:24:00.012] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:24:03.471] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.baidu.com
+[2015-01-20 15:24:04.772] [DEBUG] normal - connection 2600122660 log: time: 1301
+[2015-01-20 15:24:04.773] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.baidu.com
+[2015-01-20 15:24:06.895] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:24:06.915] [DEBUG] normal - GET 200 /images/4534dff7-540e-4598-a2d8-77605c96f667.png
+[2015-01-20 15:24:13.908] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.baidu.com
+[2015-01-20 15:24:14.582] [DEBUG] normal - connection 2600122660 log: time: 674
+[2015-01-20 15:24:14.582] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.baidu.com
+[2015-01-20 15:24:16.692] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:24:16.707] [DEBUG] normal - GET 200 /images/e046d32a-94cb-49aa-a97e-402a0378192e.png
+[2015-01-20 15:24:23.061] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.csdn.com
+[2015-01-20 15:24:25.366] [DEBUG] normal - connection 2600122660 log: shoot url fail: http://www.csdn.com
+[2015-01-20 15:24:25.367] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:24:49.387] [DEBUG] normal - GET 304 /html/
+[2015-01-20 15:24:49.480] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2015-01-20 15:24:49.483] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2015-01-20 15:24:49.486] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2015-01-20 15:24:49.489] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2015-01-20 15:24:49.491] [DEBUG] normal - GET 304 /js/metro/main.js
+[2015-01-20 15:24:49.493] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2015-01-20 15:24:49.494] [DEBUG] normal - GET 304 /images/loading.gif
+[2015-01-20 15:24:56.817] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.csdn.net
+[2015-01-20 15:25:13.529] [DEBUG] normal - connection 2600122660 log: time: 16712
+[2015-01-20 15:25:13.529] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.csdn.net
+[2015-01-20 15:25:16.885] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:25:16.921] [DEBUG] normal - GET 200 /images/f2236814-9ef6-44ae-967f-355fb49beb9c.gif
+[2015-01-20 15:25:52.489] [DEBUG] normal - GET 304 /fonts/metroSysIcons.woff
+[2015-01-20 15:26:07.747] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.csdn.net
+[2015-01-20 15:26:23.182] [DEBUG] normal - connection 2600122660 log: time: 15437
+[2015-01-20 15:26:23.183] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.csdn.net
+[2015-01-20 15:26:26.505] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:26:26.529] [DEBUG] normal - GET 200 /images/bf4f6443-fad4-49a5-92b8-49b86d055515.gif
+[2015-01-20 15:26:40.293] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.csdn.net
+[2015-01-20 15:26:48.568] [DEBUG] normal - connection 2600122660 log: time: 8277
+[2015-01-20 15:26:48.569] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.csdn.net
+[2015-01-20 15:26:51.954] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:26:51.976] [DEBUG] normal - GET 200 /images/74892e36-b653-4777-805e-204b6e6b3092.gif
+[2015-01-20 15:27:00.003] [INFO] normal - start clear finished tasks...
+[2015-01-20 15:27:08.955] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2015-01-20 15:27:08.958] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2015-01-20 15:27:17.843] [DEBUG] normal - GET 304 /images/bf4f6443-fad4-49a5-92b8-49b86d055515.gif
+[2015-01-20 15:27:17.846] [DEBUG] normal - GET 304 /images/f2236814-9ef6-44ae-967f-355fb49beb9c.gif
+[2015-01-20 15:27:25.732] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.csdn.net
+[2015-01-20 15:27:31.058] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2015-01-20 15:27:31.065] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2015-01-20 15:27:35.166] [DEBUG] normal - connection 2600122660 log: time: 9436
+[2015-01-20 15:27:35.167] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.csdn.net
+[2015-01-20 15:27:37.982] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:27:38.477] [DEBUG] normal - GET 200 /images/76c3ca7b-d1cc-435b-86b3-7477408c231c.png
+[2015-01-20 15:28:23.086] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.baidu.com
+[2015-01-20 15:28:23.223] [DEBUG] normal - connection 2600122660 log: time: 140
+[2015-01-20 15:28:23.225] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.baidu.com
+[2015-01-20 15:28:25.326] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:28:25.381] [DEBUG] normal - GET 200 /images/376f277e-3665-4c03-a1bb-4e56fe0d5869.png
+[2015-01-20 15:28:32.161] [DEBUG] normal - connection 2600122660 log: shoot url: http://www.baidu.com
+[2015-01-20 15:28:33.554] [DEBUG] normal - connection 2600122660 log: time: 1395
+[2015-01-20 15:28:33.556] [DEBUG] normal - connection 2600122660 log: shoot url success: http://www.baidu.com
+[2015-01-20 15:28:35.673] [DEBUG] normal - POST 200 /shoots
+[2015-01-20 15:28:35.733] [DEBUG] normal - GET 200 /images/5726f833-e1b5-46b1-b535-8fe179ba9fe8.png
