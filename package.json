@@ -1,6 +1,6 @@
 {
   "name": "express-shoot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "web page screen shoot",
   "main": "index.js",
   "dependencies": {
@@ -8,6 +8,7 @@
     "q": "~1.0.1",
     "uuid": "~2.0.1",
     "log4js": "~0.6.21",
+    "redis": "~0.12.1",
     "node-websocket-server": "*",
     "cookie-parser": "*",
     "express-session": "*",

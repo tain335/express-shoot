@@ -6,6 +6,13 @@ module.exports =
 		"port": 3000,
 		"imagePath": '/images/'
 	},
+	"redis": {
+		"host": "127.0.0.1",
+		"port": "6379",
+		"auth": "",
+		"options": {}
+	},
+	"taskcache": "redis", //or local
 	"logger": {
 		"appenders": [
 			{

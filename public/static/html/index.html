@@ -5,109 +5,23 @@
 		<title>Express-Shoot</title>
 		<link rel="stylesheet" href="../css/metro-bootstrap.min.css"/>
         <link rel="stylesheet" href="../css/iconFont.min.css"/>
+        <link rel="stylesheet" href="../css/main.css"/>
         <script src="../js/jquery/main.js" type="text/javascript" charset="utf-8"></script>
         <script src="../js/jquery-ui/main.js" type="text/javascript" charset="utf-8"></script>
         <script src="../js/metro/main.js" type="text/javascript" charset="utf-8"></script>
         <script src="../js/shooter-cli/main.js" charset="utf-8"></script>
-        <style type="text/css" media="screen">
-        	.metro .sidebar {
-				float: left;
-				width: 15%;
-				max-width: 300px;
-				position: relative;
-				padding-bottom: 60px;
-				transition: all 0.5s ease;
-				padding: 0 10px;
-			}
-
-			.sidebar .back {
-				transition: all 1s ease;
-			}
-
-			.sidebar.close .back {
-				-webkit-transform: rotate(-180deg);
-				position: fixed;
-				z-index: 9999;
-				left: -25px;
-			}
-
-			.sidebar>ul li:not(:first-child) {
-				position: relative;
-				top: auto;
-				left: -100%;
-				transition: all 0.5s ease;
-			}
-
-			.sidebar>ul li.slideIn {
-				left: 0;
-			}
-
-			.sidebar-footer {
-				position: absolute;
-				bottom: 0;
-				width: 100%;
-				height: 60px;
-				font-size: 40px;
-				text-align: center;
-			}
-
-			.sidebar-footer a {
-				display: inline-block;
-				color: #999999;
-				margin: 0 10px;
-			}
-
-			.main-content {
-				height: 100%;
-				overflow: hidden;
-				position: relative;
-				box-sizing: border-box;
-				padding-top: 60px;
-			}
-
-
-			.image-body {
-				height: 100%;
-				padding: 10px;
-				border-top: 1px solid #EAEAEA;
-				position: relative;
-				overflow: auto;
-			}
-
-			.timer {
-				width: 100px;
-				height: 30px;
-				border: 1px solid #EAEAEA;
-				position: absolute;
-				top: 0;
-				right: 0;
-				text-align: center;
-				line-height: 30px;
-			}
-
-			.main {
-				position: absolute;
-				top: 90px;
-				left: 0;
-				right: 0;
-				bottom: 0;
-				margin: 0;
-			}
-
-			.loading {
-				position: fixed;
-				top: 50%;
-				left: 50%;
-				width: 150px;
-				height: 150px;
-				margin: -75px 0 0 -75px;
-				display: none;
-			}
-
-        </style>
 	</head>
 	<body style="border: 1px solid transparent;" class="metro">
-		<h1>Express Shoot</h1><!--margin collapse-->
+		<header class="header clearfix">
+			<h1 class="logo">Express Shoot</h1><!--margin collapse-->
+			<div class="shoot-container">
+				<div class="input-control text">
+			    	<input id="url" type="text" value="http://www.csdn.net" placeholder="input url"/>
+				    <button class="btn-clear"></button>
+				</div>
+				<button id="shoot" class="large primary shoot-btn">SHOOT</button>
+			</div>
+		</header>
 		<div class="main">
 			<nav id="sidebar" class="sidebar light">
             	<form>
@@ -162,13 +76,6 @@
 				</div>
         	</nav>
         	<div class="main-content">
-				<div style="width: 50%; height:45px; min-width: 300px; padding-right: 110px; position: absolute; top: 10px; left: 0; right: 0; margin: auto; vertical-align: middle">
-					<div class="input-control text">
-				    	<input id="url" type="text" value="http://www.csdn.net" placeholder="input url"/>
-					    <button class="btn-clear"></button>
-					</div>
-					<button id="shoot" class="large primary" style="position: absolute; top: -4px; right: 0;">SHOOT</button>
-				</div>
 				<div class="image-body" style="text-align: center">
 					<div class="timer"></div>
 				</div>
@@ -177,129 +84,6 @@
 				</div>
 			</div>
 		</div>
-		<script type="text/javascript">
-		(function(global) {
-			var options = fetchOptions();
-			var client = new ShooterCli("/shoots");
-			$("#shoot").on('click', function() {
-				var timer = getTimer('.timer').start();
-				$('.loading').show();
-				client.shoot($("#url").val(), function(task) {
-					if(task.status === 4) {
-						var img = document.createElement('img');
-						img.onload = function() {
-							var width = img.width,
-								height = img.height,
-								$img = $(img);
-							$img.addClass('polaroid');
-							$('.metro .image-body').find('img').remove().end().append($img);
-							$('.loading').hide();
-						}
-						img.src = task.src;
-						timer.stop();
-					}
-				}, options);
-			});
-			$('#url').on('keyup', function(evt) {
-				if(evt.keyCode === 13) {
-					$("#shoot").trigger('click');
-				}
-			});
-			$('#toggleSidebar').click(function() {
-				var sidebar = $('#sidebar');
-				if(!sidebar.hasClass('close')) {
-					sidebar.css('marginLeft', -sidebar.outerWidth());
-				} else {
-					sidebar.css('marginLeft', 0);
-				}
-				sidebar.toggleClass('close');
-			});
-
-			$('#updateSetting').on('click', function(evt) {
-				evt.preventDefault();
-				options = fetchOptions()
-				$.Notify.show("Update Successfuly!").close(1000);
-			});
-
-			function fetchOptions() {
-				return {
-					format: $('#format').find('option:selected').text(),
-					viewportSize: {
-						width: +$('#v_w').val(),
-						height: +$('#v_h').val()
-					},
-					clipRect: {
-						top: +$('#c_t').val(),
-						left: +$('#c_l').val(),
-						width: $('#c_w').val(),
-						height: $('#c_h').val()
-					},
-					quality: $('#quality').val(),
-					zoomFactor: +$('#z_f').val()
-					// javascriptEnable: !!$('#js:checked').length
-				}
-			}
-
-			function round(num, bits) {
-				bits = bits || 2;
-				if(!num) {
-					return 0;
-				}
-				return Math.round(num * Math.pow(10, bits)) / Math.pow(10, bits);
-			}
-
-			var getTimer = (function() {
-				var timer, cbs = [];
-
-				function startTimer(fn) {
-					if(fn) {
-						cbs.push(fn);
-					}
-					timer = setInterval(function() {
-						if(!cbs.length) {
-							clearInterval(timer);
-							timer = undefined;
-							return;
-						}
-						cbs.forEach(function(cb) {
-							if(cb && typeof cb === 'function') {
-								cb();
-							}
-						});
-					}, 100);
-				}
-
-				return function(el) {
-					return {
-						el: $(el),
-						started: false,
-						stopped: false,
-						start: function() {
-							var self = this;
-							if(this.started || this.stopped) return;
-							this.d = new Date().getTime();
-							this.update = function() {
-								self.el[0].innerHTML = round((new Date().getTime() - self.d) / 1000, 1) + 's';
-							}
-							if(!timer) {
-								startTimer(this.update);
-							}
-							return this;
-						},
-						stop: function() {
-							var self = this;
-							if(this.stopped) return;
-							cbs.some(function(cb, i) {
-								if(self.update === cb) {
-									cbs.splice(i, 1);
-									return true;
-								}
-							});
-						}
-					}
-				}
-			})() 
-		})(this);
-		</script>	
+		<script src="../js/main.js" type="text/javascript" charset="utf-8"></script>
 	</body>
 </html>
