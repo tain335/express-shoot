@@ -9,14 +9,14 @@
     "uuid": "~2.0.1",
     "log4js": "~0.6.21",
     "redis": "~0.12.1",
-    "node-websocket-server": "*",
+    "ws": "~0.7.1",
     "cookie-parser": "*",
     "express-session": "*",
     "body-parser": "*",
     "cookie-parser": "*",
     "method-override": "*",
     "serve-favicon": "*",
-    "later": "*"
+    "crc": "*"
   },
   "devDependencies": {},
   "scripts": {

@@ -5,6 +5,10 @@
 	clear: both;
 }
 
+body {
+	position: relative;
+}
+
 .logo {
 	float: left;
 	width: 25%;
@@ -116,4 +120,20 @@
 	height: 150px;
 	margin: -75px 0 0 -75px;
 	display: none;
+}
+
+@media(max-width: 1239px) {
+	.header .logo {
+		font-size: 3.6rem;
+	}
+
+	.metro .sidebar {
+		width: 20%;
+	}
+}
+
+@media(max-width: 1023px) {
+	body {
+		min-width: 1024px;
+	}
 }

@@ -17,6 +17,10 @@
 				}
 				img.src = task.src;
 				timer.stop();
+			} else if(task.status === 2) {
+				$('.loading').hide();
+				timer.stop();
+				$.Notify.show("Cannot take screen shoot for: " + task.message).close(1000);
 			}
 		}, options);
 	});

@@ -12,7 +12,6 @@ module.exports =
 		"auth": "",
 		"options": {}
 	},
-	"taskcache": "redis", //or local
 	"logger": {
 		"appenders": [
 			{
