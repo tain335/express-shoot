@@ -16,7 +16,8 @@
     "cookie-parser": "*",
     "method-override": "*",
     "serve-favicon": "*",
-    "crc": "*"
+    "crc": "*",
+    "connect-timeout": "*"
   },
   "devDependencies": {},
   "scripts": {

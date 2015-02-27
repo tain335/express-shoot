@@ -1,0 +1,940 @@
+[2015-02-27 10:16:24.982] [INFO] normal - worker 1 has started
+[2015-02-27 10:16:25.442] [INFO] normal - init server....
+[2015-02-27 10:16:25.507] [DEBUG] normal - init task manager.....
+[2015-02-27 10:16:25.510] [DEBUG] normal - init worker manager....
+[2015-02-27 10:16:25.566] [DEBUG] normal - create phantomjs worker 8680
+[2015-02-27 10:16:25.573] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:16:25.578] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:16:28.857] [DEBUG] normal - new connection: a75b7d90-fb54-4e20-928a-377797f58b8f
+[2015-02-27 10:21:06.423] [INFO] normal - worker 1 has started
+[2015-02-27 10:21:06.907] [INFO] normal - init server....
+[2015-02-27 10:21:06.938] [DEBUG] normal - init task manager.....
+[2015-02-27 10:21:06.939] [DEBUG] normal - init worker manager....
+[2015-02-27 10:21:06.971] [DEBUG] normal - create phantomjs worker 5520
+[2015-02-27 10:21:06.976] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:21:06.979] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:21:09.257] [DEBUG] normal - new connection: 9cfed2f6-1b80-4b12-8ef6-01998ab9fe33
+[2015-02-27 10:21:25.638] [INFO] normal - worker 1 has started
+[2015-02-27 10:21:26.149] [INFO] normal - init server....
+[2015-02-27 10:21:26.177] [DEBUG] normal - init task manager.....
+[2015-02-27 10:21:26.179] [DEBUG] normal - init worker manager....
+[2015-02-27 10:21:26.200] [DEBUG] normal - create phantomjs worker 8508
+[2015-02-27 10:21:26.207] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:21:26.212] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:21:28.557] [DEBUG] normal - new connection: a3558e90-9b47-4438-b812-54050fadb32d
+[2015-02-27 10:21:41.781] [INFO] normal - worker 1 has started
+[2015-02-27 10:21:42.277] [INFO] normal - init server....
+[2015-02-27 10:21:42.310] [DEBUG] normal - init task manager.....
+[2015-02-27 10:21:42.312] [DEBUG] normal - init worker manager....
+[2015-02-27 10:21:42.342] [DEBUG] normal - create phantomjs worker 8576
+[2015-02-27 10:21:42.349] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:21:42.353] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:21:44.611] [DEBUG] normal - new connection: 1ec77f38-0237-43fc-a6c3-30d0bfe11b5e
+[2015-02-27 10:22:15.754] [INFO] normal - worker 1 has started
+[2015-02-27 10:22:16.260] [INFO] normal - init server....
+[2015-02-27 10:22:16.292] [DEBUG] normal - init task manager.....
+[2015-02-27 10:22:16.294] [DEBUG] normal - init worker manager....
+[2015-02-27 10:22:16.309] [DEBUG] normal - create phantomjs worker 764
+[2015-02-27 10:22:16.319] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:22:16.322] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:22:18.573] [DEBUG] normal - new connection: 775c9c59-30f1-4bf6-b86f-918942747da2
+[2015-02-27 10:23:10.020] [INFO] normal - worker 1 has started
+[2015-02-27 10:23:10.493] [INFO] normal - init server....
+[2015-02-27 10:23:10.523] [DEBUG] normal - init task manager.....
+[2015-02-27 10:23:10.525] [DEBUG] normal - init worker manager....
+[2015-02-27 10:23:10.558] [DEBUG] normal - create phantomjs worker 8624
+[2015-02-27 10:23:10.567] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:23:10.574] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:23:12.821] [DEBUG] normal - new connection: 687c20dd-4230-4589-953c-b811b0a5529f
+[2015-02-27 10:23:37.077] [INFO] normal - worker 1 has started
+[2015-02-27 10:23:37.558] [INFO] normal - init server....
+[2015-02-27 10:23:37.588] [DEBUG] normal - init task manager.....
+[2015-02-27 10:23:37.590] [DEBUG] normal - init worker manager....
+[2015-02-27 10:23:37.602] [DEBUG] normal - create phantomjs worker 1936
+[2015-02-27 10:23:37.609] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:23:37.611] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:23:39.878] [DEBUG] normal - new connection: 875776d2-13fa-4a97-a49c-b1c21d55b256
+[2015-02-27 10:24:38.467] [INFO] normal - worker 1 has started
+[2015-02-27 10:24:38.943] [INFO] normal - init server....
+[2015-02-27 10:24:38.971] [DEBUG] normal - init task manager.....
+[2015-02-27 10:24:38.973] [DEBUG] normal - init worker manager....
+[2015-02-27 10:24:39.006] [DEBUG] normal - create phantomjs worker 7424
+[2015-02-27 10:24:39.013] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:24:39.020] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:24:41.281] [DEBUG] normal - new connection: 7ff483e5-a06a-4d74-bda9-d39d53510774
+[2015-02-27 10:25:06.475] [INFO] normal - worker 1 has started
+[2015-02-27 10:25:06.979] [INFO] normal - init server....
+[2015-02-27 10:25:07.008] [DEBUG] normal - init task manager.....
+[2015-02-27 10:25:07.009] [DEBUG] normal - init worker manager....
+[2015-02-27 10:25:07.031] [DEBUG] normal - create phantomjs worker 7748
+[2015-02-27 10:25:07.037] [INFO] normal - server has listened at port 3000
+[2015-02-27 10:25:07.040] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 10:25:09.313] [DEBUG] normal - new connection: 9fd6a3ed-10d0-4a13-8e3d-954ef05a6eeb
+[2015-02-27 11:41:45.049] [INFO] normal - worker 1 has started
+[2015-02-27 11:41:45.501] [INFO] normal - init server....
+[2015-02-27 11:41:45.665] [DEBUG] normal - init task manager.....
+[2015-02-27 11:41:45.667] [DEBUG] normal - init worker manager....
+[2015-02-27 11:41:45.932] [DEBUG] normal - create phantomjs worker 4828
+[2015-02-27 11:41:46.039] [INFO] normal - server has listened at port 3000
+[2015-02-27 11:41:47.243] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 11:41:52.080] [DEBUG] normal - new connection: aa551d3e-75a1-4061-957c-5a7fc1230fd3
+[2015-02-27 11:42:03.715] [INFO] normal - worker 1 has started
+[2015-02-27 11:42:04.171] [INFO] normal - init server....
+[2015-02-27 11:42:04.197] [DEBUG] normal - init task manager.....
+[2015-02-27 11:42:04.200] [DEBUG] normal - init worker manager....
+[2015-02-27 11:42:04.249] [DEBUG] normal - create phantomjs worker 9264
+[2015-02-27 11:42:04.255] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 11:42:04.261] [INFO] normal - server has listened at port 3000
+[2015-02-27 11:42:06.500] [DEBUG] normal - new connection: 2f8acbcf-559f-423d-b463-2ae61ac0e120
+[2015-02-27 11:42:19.914] [INFO] normal - worker 1 has started
+[2015-02-27 11:42:20.367] [INFO] normal - init server....
+[2015-02-27 11:42:20.393] [DEBUG] normal - init task manager.....
+[2015-02-27 11:42:20.395] [DEBUG] normal - init worker manager....
+[2015-02-27 11:42:20.768] [DEBUG] normal - create phantomjs worker 9996
+[2015-02-27 11:42:20.773] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 11:42:20.775] [INFO] normal - server has listened at port 3000
+[2015-02-27 11:42:23.249] [DEBUG] normal - new connection: 6a3543ce-bcae-4413-9e1d-98e9283e09c9
+[2015-02-27 13:28:03.460] [INFO] normal - worker 1 has started
+[2015-02-27 13:28:03.942] [INFO] normal - init server....
+[2015-02-27 13:28:04.452] [DEBUG] normal - init task manager.....
+[2015-02-27 13:28:04.456] [DEBUG] normal - init worker manager....
+[2015-02-27 13:28:04.587] [DEBUG] normal - create phantomjs worker 9808
+[2015-02-27 13:28:04.601] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:28:06.219] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:28:13.098] [DEBUG] normal - new connection: f9eada93-96f3-4971-ad55-6cabf8f47312
+[2015-02-27 13:28:29.051] [DEBUG] normal - GET 302 /
+[2015-02-27 13:28:29.349] [DEBUG] normal - GET 304 /html/index.html
+[2015-02-27 13:28:29.906] [DEBUG] normal - GET 304 /js/jquery/main.js
+[2015-02-27 13:28:29.914] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2015-02-27 13:28:29.915] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2015-02-27 13:28:29.916] [DEBUG] normal - GET 304 /css/main.css
+[2015-02-27 13:28:29.994] [DEBUG] normal - GET 304 /js/jquery-ui/main.js
+[2015-02-27 13:28:30.115] [DEBUG] normal - GET 304 /js/main.js
+[2015-02-27 13:28:30.116] [DEBUG] normal - GET 304 /js/metro/main.js
+[2015-02-27 13:28:30.166] [DEBUG] normal - GET 304 /js/shooter-cli/main.js
+[2015-02-27 13:28:30.702] [DEBUG] normal - GET 304 /images/loading.gif
+[2015-02-27 13:28:31.011] [DEBUG] normal - GET 304 /fonts/iconFont.woff
+[2015-02-27 13:28:38.256] [DEBUG] normal - GET 304 /css/metro-bootstrap.min.css
+[2015-02-27 13:28:38.257] [DEBUG] normal - GET 304 /css/iconFont.min.css
+[2015-02-27 13:28:38.258] [DEBUG] normal - GET 304 /css/main.css
+[2015-02-27 13:28:42.759] [ERROR] normal - [TypeError: Not a buffer]
+TypeError: Not a buffer
+    at new Hmac (crypto.js:257:17)
+    at Object.Hmac (crypto.js:255:12)
+    at Function.module.exports.Task.generateId (E:\git\express-shoot\lib\task.js:25:17)
+    at new Task (E:\git\express-shoot\lib\task.js:30:19)
+    at Object.shoot (E:\git\express-shoot\lib\shooter.js:17:14)
+    at module.exports.router.route.get.send.code (E:\git\express-shoot\lib\router.js:45:13)
+    at Layer.handle [as handle_request] (E:\git\express-shoot\node_modules\express\lib\router\layer.js:82:5)
+    at next (E:\git\express-shoot\node_modules\express\lib\router\route.js:100:13)
+    at Route.dispatch (E:\git\express-shoot\node_modules\express\lib\router\route.js:81:3)
+    at Layer.handle [as handle_request] (E:\git\express-shoot\node_modules\express\lib\router\layer.js:82:5)
+[2015-02-27 13:28:42.763] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:30:20.480] [INFO] normal - worker 1 has started
+[2015-02-27 13:30:21.004] [INFO] normal - init server....
+[2015-02-27 13:30:21.037] [DEBUG] normal - init task manager.....
+[2015-02-27 13:30:21.039] [DEBUG] normal - init worker manager....
+[2015-02-27 13:30:21.058] [DEBUG] normal - create phantomjs worker 8124
+[2015-02-27 13:30:21.066] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:30:21.084] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:30:23.351] [DEBUG] normal - new connection: fd00aec7-3dcc-45d2-9e77-b5ed3269dc06
+[2015-02-27 13:30:24.850] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:30:25.062] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:30:25.086] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:30:25.117] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:30:25.168] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:30:25.297] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:30:25.305] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:30:25.324] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:30:25.341] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:30:25.354] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:30:25.589] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:30:29.335] [DEBUG] normal - connection undefined log: shoot url: http://www.csdn.net
+[2015-02-27 13:30:31.563] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:30:31.595] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:30:44.939] [DEBUG] normal - connection undefined log: time: 16239
+[2015-02-27 13:30:44.940] [DEBUG] normal - connection undefined log: shoot url success: http://www.csdn.net
+[2015-02-27 13:32:04.118] [INFO] normal - worker 1 has started
+[2015-02-27 13:32:04.614] [INFO] normal - init server....
+[2015-02-27 13:32:04.640] [DEBUG] normal - init task manager.....
+[2015-02-27 13:32:04.642] [DEBUG] normal - init worker manager....
+[2015-02-27 13:32:04.672] [DEBUG] normal - create phantomjs worker 8408
+[2015-02-27 13:32:04.681] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:32:04.683] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:32:06.994] [DEBUG] normal - new connection: 9f58786a-44df-4159-b154-45ad1c37b2b8
+[2015-02-27 13:32:07.644] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:32:07.830] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:32:07.832] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:32:07.836] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:32:07.838] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:32:07.840] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:32:07.842] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:32:07.891] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:32:07.923] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:32:07.935] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:32:08.137] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:32:09.157] [DEBUG] normal - connection 9f58786a-44df-4159-b154-45ad1c37b2b8 log: shoot url: http://www.csdn.net
+[2015-02-27 13:32:12.133] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:32:12.141] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:32:24.233] [DEBUG] normal - connection 9f58786a-44df-4159-b154-45ad1c37b2b8 log: time: 15078
+[2015-02-27 13:32:24.234] [DEBUG] normal - connection 9f58786a-44df-4159-b154-45ad1c37b2b8 log: shoot url success: http://www.csdn.net
+[2015-02-27 13:33:05.775] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:33:05.945] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:33:05.952] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:33:05.974] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:33:06.035] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:33:06.053] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:33:06.055] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:33:06.059] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:33:06.090] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:33:06.090] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:33:06.272] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:33:13.733] [INFO] normal - worker 1 has started
+[2015-02-27 13:33:14.219] [INFO] normal - init server....
+[2015-02-27 13:33:14.244] [DEBUG] normal - init task manager.....
+[2015-02-27 13:33:14.246] [DEBUG] normal - init worker manager....
+[2015-02-27 13:33:14.270] [DEBUG] normal - create phantomjs worker 11012
+[2015-02-27 13:33:14.277] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:33:14.280] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:33:16.571] [DEBUG] normal - new connection: caefde16-d55e-4ff5-845e-db6e75425eee
+[2015-02-27 13:33:17.331] [DEBUG] normal - connection caefde16-d55e-4ff5-845e-db6e75425eee log: shoot url: http://www.csdn.net
+[2015-02-27 13:33:20.309] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:33:20.319] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:33:31.071] [DEBUG] normal - connection caefde16-d55e-4ff5-845e-db6e75425eee log: time: 13743
+[2015-02-27 13:33:31.071] [DEBUG] normal - connection caefde16-d55e-4ff5-845e-db6e75425eee log: shoot url success: http://www.csdn.net
+[2015-02-27 13:37:14.751] [INFO] normal - worker 1 has started
+[2015-02-27 13:37:15.248] [INFO] normal - init server....
+[2015-02-27 13:37:15.276] [DEBUG] normal - init task manager.....
+[2015-02-27 13:37:15.278] [DEBUG] normal - init worker manager....
+[2015-02-27 13:37:15.326] [DEBUG] normal - create phantomjs worker 8864
+[2015-02-27 13:37:15.334] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:37:15.341] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:37:17.605] [DEBUG] normal - new connection: 30fa2ce3-03d3-40fb-96cd-cf9bd82fb30f
+[2015-02-27 13:37:21.389] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:37:21.566] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:37:21.567] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:37:21.633] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:37:21.634] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:37:21.644] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:37:21.646] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:37:21.663] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:37:21.666] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:37:21.689] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:37:21.883] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:37:25.874] [DEBUG] normal - connection 30fa2ce3-03d3-40fb-96cd-cf9bd82fb30f log: shoot url: http://www.csdn.net
+[2015-02-27 13:37:26.290] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:37:26.299] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:37:39.522] [DEBUG] normal - connection 30fa2ce3-03d3-40fb-96cd-cf9bd82fb30f log: time: 16219
+[2015-02-27 13:37:39.523] [DEBUG] normal - connection 30fa2ce3-03d3-40fb-96cd-cf9bd82fb30f log: shoot url success: http://www.csdn.net
+[2015-02-27 13:37:43.636] [ERROR] normal - server happen errors!
+[2015-02-27 13:37:43.649] [ERROR] normal - worker 1 has exited (1). restarting....
+[2015-02-27 13:37:43.687] [INFO] normal - worker 2 restart successfully.
+[2015-02-27 13:37:44.288] [INFO] normal - init server....
+[2015-02-27 13:37:44.320] [DEBUG] normal - init task manager.....
+[2015-02-27 13:37:44.322] [DEBUG] normal - init worker manager....
+[2015-02-27 13:37:44.343] [DEBUG] normal - create phantomjs worker 9932
+[2015-02-27 13:37:44.352] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:37:44.356] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:37:46.650] [DEBUG] normal - new connection: f4677a3c-7265-4daa-8207-757a8b423d2b
+[2015-02-27 13:38:08.627] [INFO] normal - worker 1 has started
+[2015-02-27 13:38:09.157] [INFO] normal - init server....
+[2015-02-27 13:38:09.187] [DEBUG] normal - init task manager.....
+[2015-02-27 13:38:09.189] [DEBUG] normal - init worker manager....
+[2015-02-27 13:38:09.211] [DEBUG] normal - create phantomjs worker 11044
+[2015-02-27 13:38:09.217] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:38:09.223] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:38:11.516] [DEBUG] normal - new connection: ddb8e825-f6f6-4179-9929-8a3d26a03206
+[2015-02-27 13:38:14.363] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:38:14.550] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:38:14.554] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:38:14.558] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:38:14.560] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:38:14.562] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:38:14.622] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:38:14.646] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:38:14.647] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:38:14.669] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:38:14.921] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:38:15.924] [DEBUG] normal - connection ddb8e825-f6f6-4179-9929-8a3d26a03206 log: shoot url: http://www.csdn.net
+[2015-02-27 13:38:18.912] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:38:18.936] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:38:56.558] [DEBUG] normal - connection ddb8e825-f6f6-4179-9929-8a3d26a03206 log: time: 40635
+[2015-02-27 13:38:56.559] [DEBUG] normal - connection ddb8e825-f6f6-4179-9929-8a3d26a03206 log: shoot url success: http://www.csdn.net
+[2015-02-27 13:39:00.710] [ERROR] normal - server happen errors!
+[2015-02-27 13:39:00.726] [ERROR] normal - worker 1 has exited (1). restarting....
+[2015-02-27 13:39:05.066] [INFO] normal - worker 2 restart successfully.
+[2015-02-27 13:39:05.631] [INFO] normal - init server....
+[2015-02-27 13:39:05.661] [DEBUG] normal - init task manager.....
+[2015-02-27 13:39:05.664] [DEBUG] normal - init worker manager....
+[2015-02-27 13:39:05.697] [DEBUG] normal - create phantomjs worker 10500
+[2015-02-27 13:39:05.700] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:39:05.705] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:39:08.014] [DEBUG] normal - new connection: cc3e5215-5aee-4b33-ac11-31a54e2569d3
+[2015-02-27 13:45:05.319] [INFO] normal - worker 1 has started
+[2015-02-27 13:45:05.846] [INFO] normal - init server....
+[2015-02-27 13:45:05.876] [DEBUG] normal - init task manager.....
+[2015-02-27 13:45:05.878] [DEBUG] normal - init worker manager....
+[2015-02-27 13:45:05.899] [DEBUG] normal - create phantomjs worker 11184
+[2015-02-27 13:45:05.906] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:45:05.912] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:45:08.213] [DEBUG] normal - new connection: c9f71ee2-a300-41e1-8fd7-2de204be9bf3
+[2015-02-27 13:45:08.978] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:45:09.155] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:45:09.161] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:45:09.168] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:45:09.169] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:45:09.170] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:45:09.370] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:45:09.374] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:45:09.396] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:45:09.416] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:45:09.656] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:45:11.192] [DEBUG] normal - connection c9f71ee2-a300-41e1-8fd7-2de204be9bf3 log: shoot url: http://www.csdn.net
+[2015-02-27 13:45:14.167] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:45:14.172] [DEBUG] normal - POST 500 /shoots
+[2015-02-27 13:45:25.652] [DEBUG] normal - connection c9f71ee2-a300-41e1-8fd7-2de204be9bf3 log: time: 14463
+[2015-02-27 13:45:25.654] [DEBUG] normal - connection c9f71ee2-a300-41e1-8fd7-2de204be9bf3 log: shoot url success: http://www.csdn.net
+[2015-02-27 13:46:25.658] [INFO] normal - worker 1 has started
+[2015-02-27 13:46:26.179] [INFO] normal - init server....
+[2015-02-27 13:46:26.210] [DEBUG] normal - init task manager.....
+[2015-02-27 13:46:26.213] [DEBUG] normal - init worker manager....
+[2015-02-27 13:46:26.228] [DEBUG] normal - create phantomjs worker 11248
+[2015-02-27 13:46:26.236] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 13:46:26.243] [INFO] normal - server has listened at port 3000
+[2015-02-27 13:46:28.533] [DEBUG] normal - new connection: 4ed8cfcf-9612-4c28-9cb4-1537833e6e44
+[2015-02-27 13:46:42.447] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 13:46:42.648] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 13:46:42.650] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 13:46:42.654] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 13:46:42.658] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 13:46:42.659] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 13:46:42.725] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 13:46:42.726] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 13:46:42.743] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 13:46:42.761] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 13:46:42.938] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 13:46:46.197] [DEBUG] normal - connection 4ed8cfcf-9612-4c28-9cb4-1537833e6e44 log: shoot url: http://www.csdn.net
+[2015-02-27 13:46:49.174] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 3000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 13:46:49.181] [DEBUG] normal - POST 503 /shoots
+[2015-02-27 13:47:00.466] [DEBUG] normal - connection 4ed8cfcf-9612-4c28-9cb4-1537833e6e44 log: time: 14271
+[2015-02-27 13:47:00.467] [DEBUG] normal - connection 4ed8cfcf-9612-4c28-9cb4-1537833e6e44 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:21:53.167] [INFO] normal - worker 1 has started
+[2015-02-27 14:21:53.604] [INFO] normal - init server....
+[2015-02-27 14:21:53.630] [DEBUG] normal - init task manager.....
+[2015-02-27 14:21:53.631] [DEBUG] normal - init worker manager....
+[2015-02-27 14:21:53.642] [DEBUG] normal - create phantomjs worker 6504
+[2015-02-27 14:21:53.649] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:21:53.654] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:21:55.916] [DEBUG] normal - new connection: 949bf71b-58d3-4959-845e-73dcdc7d188b
+[2015-02-27 14:22:00.197] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:22:00.442] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:22:00.443] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:22:00.447] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:22:00.449] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:22:00.450] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:22:00.451] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:22:00.451] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:22:00.456] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:22:00.550] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:22:00.765] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:22:05.752] [DEBUG] normal - connection 949bf71b-58d3-4959-845e-73dcdc7d188b log: shoot url: http://www.csdn.net
+[2015-02-27 14:22:10.755] [DEBUG] normal - connection 949bf71b-58d3-4959-845e-73dcdc7d188b log: shoot url fail: http://www.csdn.net
+[2015-02-27 14:22:10.759] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:22:53.185] [INFO] normal - worker 1 has started
+[2015-02-27 14:22:53.683] [INFO] normal - init server....
+[2015-02-27 14:22:53.710] [DEBUG] normal - init task manager.....
+[2015-02-27 14:22:53.712] [DEBUG] normal - init worker manager....
+[2015-02-27 14:22:53.759] [DEBUG] normal - create phantomjs worker 10500
+[2015-02-27 14:22:53.767] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:22:53.770] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:22:55.073] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:22:55.279] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:22:55.288] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:22:55.291] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:22:55.296] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:22:55.303] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:22:55.312] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:22:55.316] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:22:55.319] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:22:55.322] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:22:55.334] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:22:55.572] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:22:55.577] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:22:55.589] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:22:55.591] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:22:55.599] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:22:55.600] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:22:55.613] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:22:55.614] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:22:55.617] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:22:55.872] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:22:56.059] [DEBUG] normal - new connection: b487a02a-eabf-48f7-a528-03e8b30f5fd2
+[2015-02-27 14:22:59.560] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url: http://www.csdn.net
+[2015-02-27 14:23:18.826] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: time: 19267
+[2015-02-27 14:23:18.828] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:23:23.001] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:25:23.893] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:25:24.072] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:25:24.077] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:25:24.083] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:25:24.135] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:25:24.141] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:25:24.147] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:25:24.149] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:25:24.152] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:25:24.155] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:25:24.334] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:25:26.348] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url: http://www.csdn.net
+[2015-02-27 14:25:36.734] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: time: 10385
+[2015-02-27 14:25:36.734] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:25:40.377] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:26:20.266] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:26:20.442] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:26:20.451] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:26:20.460] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:26:20.468] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:26:20.476] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:26:20.521] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:26:20.528] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:26:20.581] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:26:20.584] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:26:20.830] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:26:22.571] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url: http://www.csdn.net
+[2015-02-27 14:26:34.177] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: time: 11605
+[2015-02-27 14:26:34.177] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:26:37.812] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:28:33.499] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:28:33.696] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:28:33.702] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:28:33.705] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:28:33.740] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:28:33.753] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:28:33.803] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:28:33.852] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:28:33.863] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:28:33.864] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:28:33.919] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:28:35.592] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url: http://www.csdn.net
+[2015-02-27 14:28:36.081] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: time: 491
+[2015-02-27 14:28:36.082] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:28:39.543] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:28:39.624] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:28:39.956] [DEBUG] normal - GET 304 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:28:54.602] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:28:54.766] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:28:54.768] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:28:54.784] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:28:54.794] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:28:54.796] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:28:54.802] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:28:54.809] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:28:54.811] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:28:54.876] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:28:55.036] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:28:56.815] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url: http://www.csdn.net
+[2015-02-27 14:29:12.479] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: time: 15675
+[2015-02-27 14:29:12.482] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:29:16.141] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:29:16.176] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:29:40.672] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:29:40.838] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:29:40.844] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:29:40.852] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:29:40.854] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:29:40.862] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:29:40.866] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:29:40.872] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:29:40.875] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:29:40.877] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:29:41.102] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:29:46.354] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url: http://www.csdn.net
+[2015-02-27 14:29:48.115] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: time: 1762
+[2015-02-27 14:29:48.116] [DEBUG] normal - connection b487a02a-eabf-48f7-a528-03e8b30f5fd2 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:29:51.502] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:29:51.536] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:30:43.321] [INFO] normal - worker 1 has started
+[2015-02-27 14:30:44.174] [INFO] normal - init server....
+[2015-02-27 14:30:44.198] [DEBUG] normal - init task manager.....
+[2015-02-27 14:30:44.200] [DEBUG] normal - init worker manager....
+[2015-02-27 14:30:44.221] [DEBUG] normal - create phantomjs worker 4032
+[2015-02-27 14:30:44.228] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:30:44.235] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:30:46.494] [DEBUG] normal - new connection: 69c38986-8153-42d8-9952-b72cbbc606b5
+[2015-02-27 14:30:47.161] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:30:47.350] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:30:47.352] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:30:47.370] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:30:47.372] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:30:47.374] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:30:47.379] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:30:47.380] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:30:47.382] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:30:47.415] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:30:47.652] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:30:54.157] [DEBUG] normal - connection 69c38986-8153-42d8-9952-b72cbbc606b5 log: shoot url: http://www.csdn.net
+[2015-02-27 14:31:10.720] [DEBUG] normal - connection 69c38986-8153-42d8-9952-b72cbbc606b5 log: time: 16565
+[2015-02-27 14:31:14.891] [DEBUG] normal - connection 69c38986-8153-42d8-9952-b72cbbc606b5 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:31:14.894] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:31:14.932] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:32:52.843] [INFO] normal - worker 1 has started
+[2015-02-27 14:32:53.359] [INFO] normal - init server....
+[2015-02-27 14:32:53.390] [DEBUG] normal - init task manager.....
+[2015-02-27 14:32:53.392] [DEBUG] normal - init worker manager....
+[2015-02-27 14:32:53.419] [DEBUG] normal - create phantomjs worker 10380
+[2015-02-27 14:32:53.425] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:32:53.428] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:32:55.744] [DEBUG] normal - new connection: 06ad383d-2dbf-4457-b337-e73631a5f1b1
+[2015-02-27 14:33:00.417] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:33:00.658] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:33:00.659] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:33:00.663] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:33:00.668] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:33:00.669] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:33:00.685] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:33:00.691] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:33:00.695] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:33:00.709] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:33:00.992] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:33:05.146] [DEBUG] normal - connection 06ad383d-2dbf-4457-b337-e73631a5f1b1 log: shoot url: http://www.csdn.net
+[2015-02-27 14:33:24.721] [DEBUG] normal - connection 06ad383d-2dbf-4457-b337-e73631a5f1b1 log: time: 22142
+[2015-02-27 14:33:28.834] [DEBUG] normal - connection 06ad383d-2dbf-4457-b337-e73631a5f1b1 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:33:28.839] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:33:28.898] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:34:38.794] [INFO] normal - worker 1 has started
+[2015-02-27 14:34:39.285] [INFO] normal - init server....
+[2015-02-27 14:34:39.314] [DEBUG] normal - init task manager.....
+[2015-02-27 14:34:39.316] [DEBUG] normal - init worker manager....
+[2015-02-27 14:34:39.344] [DEBUG] normal - create phantomjs worker 10324
+[2015-02-27 14:34:39.353] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:34:39.359] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:34:41.641] [DEBUG] normal - new connection: efdf84b2-047d-4335-8f0a-13de4e1ac218
+[2015-02-27 14:34:43.507] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:34:43.699] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:34:43.700] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:34:43.701] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:34:43.703] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:34:43.705] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:34:43.707] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:34:43.709] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:34:43.714] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:34:43.730] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:34:44.019] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:34:46.877] [DEBUG] normal - connection efdf84b2-047d-4335-8f0a-13de4e1ac218 log: shoot url: http://www.csdn.net
+[2015-02-27 14:35:12.377] [DEBUG] normal - connection efdf84b2-047d-4335-8f0a-13de4e1ac218 log: time: 25502
+[2015-02-27 14:35:16.607] [DEBUG] normal - connection efdf84b2-047d-4335-8f0a-13de4e1ac218 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:35:16.610] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:35:16.662] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 14:36:27.334] [INFO] normal - worker 1 has started
+[2015-02-27 14:36:27.841] [INFO] normal - init server....
+[2015-02-27 14:36:27.869] [DEBUG] normal - init task manager.....
+[2015-02-27 14:36:27.871] [DEBUG] normal - init worker manager....
+[2015-02-27 14:36:27.914] [DEBUG] normal - create phantomjs worker 7936
+[2015-02-27 14:36:27.922] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:36:27.925] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:36:30.188] [DEBUG] normal - new connection: 99af84d0-a95e-46eb-aa6a-3e93038a0311
+[2015-02-27 14:36:38.183] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:36:38.384] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:36:38.388] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:36:38.403] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:36:38.404] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:36:38.405] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:36:38.408] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:36:38.413] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:36:38.414] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:36:38.421] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:36:38.665] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:36:52.454] [DEBUG] normal - connection 99af84d0-a95e-46eb-aa6a-3e93038a0311 log: shoot url: http://www.csdn.net
+[2015-02-27 14:37:22.439] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 30000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 14:37:22.448] [DEBUG] normal - POST 503 /shoots
+[2015-02-27 14:37:24.062] [DEBUG] normal - connection 99af84d0-a95e-46eb-aa6a-3e93038a0311 log: time: 31607
+[2015-02-27 14:37:24.062] [DEBUG] normal - connection 99af84d0-a95e-46eb-aa6a-3e93038a0311 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:38:04.559] [INFO] normal - worker 1 has started
+[2015-02-27 14:38:05.049] [INFO] normal - init server....
+[2015-02-27 14:38:05.077] [DEBUG] normal - init task manager.....
+[2015-02-27 14:38:05.078] [DEBUG] normal - init worker manager....
+[2015-02-27 14:38:05.115] [DEBUG] normal - create phantomjs worker 10632
+[2015-02-27 14:38:05.122] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:38:05.126] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:38:07.421] [DEBUG] normal - new connection: a2cd847d-538a-47c7-9ecb-a0ab221f968f
+[2015-02-27 14:38:24.984] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:38:25.282] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:38:25.291] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:38:25.293] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:38:25.306] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:38:25.317] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:38:25.318] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:38:25.328] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:38:25.331] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:38:25.335] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:38:25.600] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:38:56.790] [DEBUG] normal - connection a2cd847d-538a-47c7-9ecb-a0ab221f968f log: shoot url: http://www.csdn.net
+[2015-02-27 14:39:06.760] [ERROR] normal - { [ServiceUnavailableError: Response timeout] code: 'ETIMEDOUT', timeout: 10000 }
+ServiceUnavailableError: Response timeout
+    at IncomingMessage.<anonymous> (E:\git\express-shoot\node_modules\connect-timeout\index.js:69:8)
+    at IncomingMessage.emit (events.js:117:20)
+    at null._onTimeout (E:\git\express-shoot\node_modules\connect-timeout\index.js:41:11)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:112:15)
+[2015-02-27 14:39:06.766] [DEBUG] normal - POST 503 /shoots
+[2015-02-27 14:39:24.762] [DEBUG] normal - connection a2cd847d-538a-47c7-9ecb-a0ab221f968f log: time: 27964
+[2015-02-27 14:39:24.763] [DEBUG] normal - connection a2cd847d-538a-47c7-9ecb-a0ab221f968f log: shoot url success: http://www.csdn.net
+[2015-02-27 14:46:20.709] [INFO] normal - worker 1 has started
+[2015-02-27 14:46:21.234] [INFO] normal - init server....
+[2015-02-27 14:46:21.263] [DEBUG] normal - init task manager.....
+[2015-02-27 14:46:21.264] [DEBUG] normal - init worker manager....
+[2015-02-27 14:46:21.293] [DEBUG] normal - create phantomjs worker 6260
+[2015-02-27 14:46:21.300] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:46:21.305] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:46:23.579] [DEBUG] normal - new connection: c9a4f46b-5b7a-4b22-9e46-b11b6e56fa7c
+[2015-02-27 14:46:24.983] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:46:25.208] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:46:25.215] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:46:25.258] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:46:25.268] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:46:25.280] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:46:25.289] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:46:25.294] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:46:25.300] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:46:25.310] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:46:25.553] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:46:29.448] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:46:29.455] [DEBUG] normal - connection c9a4f46b-5b7a-4b22-9e46-b11b6e56fa7c log: shoot url: http://www.csdn.net
+[2015-02-27 14:47:00.683] [DEBUG] normal - connection c9a4f46b-5b7a-4b22-9e46-b11b6e56fa7c log: time: 31230
+[2015-02-27 14:47:00.684] [DEBUG] normal - connection c9a4f46b-5b7a-4b22-9e46-b11b6e56fa7c log: shoot url success: http://www.csdn.net
+[2015-02-27 14:52:09.133] [INFO] normal - worker 1 has started
+[2015-02-27 14:52:09.670] [INFO] normal - init server....
+[2015-02-27 14:52:09.701] [DEBUG] normal - init task manager.....
+[2015-02-27 14:52:09.702] [DEBUG] normal - init worker manager....
+[2015-02-27 14:52:09.725] [DEBUG] normal - create phantomjs worker 10676
+[2015-02-27 14:52:09.736] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:52:09.740] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:52:12.106] [DEBUG] normal - new connection: 6b28fa55-0dff-4bc7-893d-7553634fe7d7
+[2015-02-27 14:52:14.005] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:52:14.221] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:52:14.228] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:52:14.234] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:52:14.267] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:52:14.277] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:52:14.281] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:52:14.289] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:52:14.291] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:52:14.296] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:52:14.539] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:52:16.271] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:52:16.280] [DEBUG] normal - connection 6b28fa55-0dff-4bc7-893d-7553634fe7d7 log: shoot url: http://www.csdn.net
+[2015-02-27 14:52:40.952] [DEBUG] normal - connection 6b28fa55-0dff-4bc7-893d-7553634fe7d7 log: time: 24674
+[2015-02-27 14:52:40.953] [DEBUG] normal - connection 6b28fa55-0dff-4bc7-893d-7553634fe7d7 log: shoot url success: http://www.csdn.net
+[2015-02-27 14:53:57.292] [INFO] normal - worker 1 has started
+[2015-02-27 14:53:57.800] [INFO] normal - init server....
+[2015-02-27 14:53:57.830] [DEBUG] normal - init task manager.....
+[2015-02-27 14:53:57.832] [DEBUG] normal - init worker manager....
+[2015-02-27 14:53:57.845] [DEBUG] normal - create phantomjs worker 11064
+[2015-02-27 14:53:57.858] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:53:57.861] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:54:00.197] [DEBUG] normal - new connection: 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc
+[2015-02-27 14:54:00.964] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:54:01.111] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:54:01.137] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:54:01.147] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:54:01.158] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:54:01.195] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:54:01.196] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:54:01.201] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:54:01.205] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:54:01.208] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:54:01.487] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:54:03.501] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:54:03.508] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: shoot url: http://www.csdn.net
+[2015-02-27 14:54:17.273] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:54:17.448] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:54:17.454] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:54:17.457] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:54:17.468] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:54:17.471] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:54:17.477] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:54:17.479] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:54:17.482] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:54:17.493] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:54:17.776] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:54:18.702] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:54:18.703] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: shoot url: http://www.csdn.net
+[2015-02-27 14:54:18.720] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 14:54:27.652] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: time: 24146
+[2015-02-27 14:54:27.654] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: shoot url success: http://www.csdn.net
+[2015-02-27 14:54:28.252] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:54:28.503] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:54:28.504] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:54:28.506] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:54:28.507] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:54:28.524] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:54:28.584] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:54:28.585] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:54:28.590] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:54:28.614] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:54:29.110] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:54:29.639] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: time: 10953
+[2015-02-27 14:54:29.640] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: shoot url success: http://www.csdn.net
+[2015-02-27 14:54:30.331] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:54:30.335] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: shoot url: http://www.csdn.net
+[2015-02-27 14:54:30.341] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 14:54:37.313] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: time: 6979
+[2015-02-27 14:54:37.314] [DEBUG] normal - connection 0aaa326d-a0c5-4335-95f2-7c4ff459a8bc log: shoot url success: http://www.csdn.net
+[2015-02-27 14:56:08.413] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:56:08.592] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:56:08.593] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:56:08.595] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:56:08.604] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:56:08.609] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:56:08.613] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:56:08.627] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:56:08.633] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:56:08.638] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:56:08.978] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:56:13.564] [INFO] normal - worker 1 has started
+[2015-02-27 14:56:14.106] [INFO] normal - init server....
+[2015-02-27 14:56:14.136] [DEBUG] normal - init task manager.....
+[2015-02-27 14:56:14.138] [DEBUG] normal - init worker manager....
+[2015-02-27 14:56:14.152] [DEBUG] normal - create phantomjs worker 4052
+[2015-02-27 14:56:14.161] [INFO] normal - server has listened at port 3000
+[2015-02-27 14:56:14.164] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 14:56:16.194] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 14:56:16.398] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 14:56:16.414] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 14:56:16.418] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 14:56:16.427] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 14:56:16.443] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 14:56:16.444] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 14:56:16.453] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 14:56:16.456] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 14:56:16.462] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 14:56:16.529] [DEBUG] normal - new connection: e6180b82-d7f7-4b5d-bcb5-32ede1a2b838
+[2015-02-27 14:56:16.894] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 14:56:17.344] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 14:56:17.349] [DEBUG] normal - connection e6180b82-d7f7-4b5d-bcb5-32ede1a2b838 log: shoot url: http://www.csdn.net
+[2015-02-27 14:56:17.353] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 14:56:32.553] [DEBUG] normal - connection e6180b82-d7f7-4b5d-bcb5-32ede1a2b838 log: time: 15199
+[2015-02-27 14:56:32.553] [DEBUG] normal - connection e6180b82-d7f7-4b5d-bcb5-32ede1a2b838 log: shoot url success: http://www.csdn.net
+[2015-02-27 15:02:52.723] [INFO] normal - worker 1 has started
+[2015-02-27 15:02:53.172] [INFO] normal - init server....
+[2015-02-27 15:02:53.197] [DEBUG] normal - init task manager.....
+[2015-02-27 15:02:53.198] [DEBUG] normal - init worker manager....
+[2015-02-27 15:02:53.210] [DEBUG] normal - create phantomjs worker 11188
+[2015-02-27 15:02:53.220] [INFO] normal - server has listened at port 3000
+[2015-02-27 15:02:53.222] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 15:02:55.490] [DEBUG] normal - new connection: 1e5ac7f8-7c52-4297-891a-eaa8dfedb582
+[2015-02-27 15:02:56.063] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:02:56.247] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:02:56.251] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:02:56.258] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:02:56.263] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:02:56.273] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:02:56.316] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:02:56.318] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:02:56.329] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:02:56.334] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:02:56.586] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:02:59.260] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:02:59.267] [DEBUG] normal - connection 1e5ac7f8-7c52-4297-891a-eaa8dfedb582 log: shoot url: http://www.csdn.net
+[2015-02-27 15:02:59.270] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:03:04.264] [DEBUG] normal - connection 1e5ac7f8-7c52-4297-891a-eaa8dfedb582 log: shoot url fail: http://www.csdn.net
+[2015-02-27 15:04:19.678] [INFO] normal - worker 1 has started
+[2015-02-27 15:04:20.132] [INFO] normal - init server....
+[2015-02-27 15:04:20.158] [DEBUG] normal - init task manager.....
+[2015-02-27 15:04:20.160] [DEBUG] normal - init worker manager....
+[2015-02-27 15:04:20.495] [DEBUG] normal - create phantomjs worker 11940
+[2015-02-27 15:04:20.501] [INFO] normal - server has listened at port 3000
+[2015-02-27 15:04:20.503] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 15:04:22.826] [DEBUG] normal - new connection: faf309fc-9bfe-4876-b805-ce6d28ecf2aa
+[2015-02-27 15:04:23.667] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:04:23.815] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:04:23.829] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:04:23.832] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:04:23.839] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:04:23.849] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:04:23.911] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:04:23.913] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:04:23.916] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:04:23.919] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:04:24.241] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:04:25.448] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:04:25.454] [DEBUG] normal - connection faf309fc-9bfe-4876-b805-ce6d28ecf2aa log: shoot url: http://www.csdn.net
+[2015-02-27 15:04:25.461] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:04:43.518] [INFO] normal - worker 1 has started
+[2015-02-27 15:04:43.964] [INFO] normal - init server....
+[2015-02-27 15:04:43.991] [DEBUG] normal - init task manager.....
+[2015-02-27 15:04:43.993] [DEBUG] normal - init worker manager....
+[2015-02-27 15:04:44.238] [DEBUG] normal - create phantomjs worker 10940
+[2015-02-27 15:04:44.246] [INFO] normal - server has listened at port 3000
+[2015-02-27 15:04:44.269] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 15:04:46.618] [DEBUG] normal - new connection: 05be04e0-afb8-4d47-a9f0-ac5b542573ee
+[2015-02-27 15:04:55.575] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:04:55.754] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:04:55.760] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:04:55.765] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:04:55.778] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:04:55.780] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:04:55.781] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:04:55.781] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:04:55.792] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:04:55.797] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:04:56.171] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:04:57.490] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:04:57.495] [DEBUG] normal - connection 05be04e0-afb8-4d47-a9f0-ac5b542573ee log: shoot url: http://www.csdn.net
+[2015-02-27 15:04:57.504] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:05:32.349] [INFO] normal - worker 1 has started
+[2015-02-27 15:05:32.863] [INFO] normal - init server....
+[2015-02-27 15:05:32.892] [DEBUG] normal - init task manager.....
+[2015-02-27 15:05:32.894] [DEBUG] normal - init worker manager....
+[2015-02-27 15:05:32.907] [DEBUG] normal - create phantomjs worker 8900
+[2015-02-27 15:05:32.920] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 15:05:32.923] [INFO] normal - server has listened at port 3000
+[2015-02-27 15:05:35.221] [DEBUG] normal - new connection: ce8abeb0-4799-422c-b9b6-b9d4d336080b
+[2015-02-27 15:05:40.133] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:05:40.347] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:05:40.367] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:05:40.387] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:05:40.390] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:05:40.409] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:05:40.416] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:05:40.417] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:05:40.424] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:05:40.429] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:05:40.856] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:06:07.973] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:06:08.158] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:06:08.164] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:06:08.166] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:06:08.172] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:06:08.183] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:06:08.192] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:06:08.198] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:06:08.208] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:06:08.215] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:06:08.546] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:06:09.209] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:06:09.216] [DEBUG] normal - connection ce8abeb0-4799-422c-b9b6-b9d4d336080b log: shoot url: http://www.csdn.net
+[2015-02-27 15:06:09.243] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:06:14.209] [DEBUG] normal - connection ce8abeb0-4799-422c-b9b6-b9d4d336080b log: shoot url fail: http://www.csdn.net
+[2015-02-27 15:09:20.577] [INFO] normal - worker 1 has started
+[2015-02-27 15:09:21.092] [INFO] normal - init server....
+[2015-02-27 15:09:21.130] [DEBUG] normal - init task manager.....
+[2015-02-27 15:09:21.132] [DEBUG] normal - init worker manager....
+[2015-02-27 15:09:22.158] [DEBUG] normal - create phantomjs worker 11476
+[2015-02-27 15:09:22.164] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 15:09:22.168] [INFO] normal - server has listened at port 3000
+[2015-02-27 15:09:24.495] [DEBUG] normal - new connection: ce9d9f45-0bc5-4831-9979-d2390ad3517b
+[2015-02-27 15:09:25.314] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:09:25.528] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:09:25.534] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:09:25.539] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:09:25.561] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:09:25.568] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:09:25.570] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:09:25.573] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:09:25.580] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:09:25.583] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:09:26.030] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:09:27.521] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:09:27.527] [DEBUG] normal - connection ce9d9f45-0bc5-4831-9979-d2390ad3517b log: shoot url: http://www.csdn.net
+[2015-02-27 15:09:53.126] [DEBUG] normal - connection ce9d9f45-0bc5-4831-9979-d2390ad3517b log: time: 25592
+[2015-02-27 15:09:53.127] [DEBUG] normal - connection ce9d9f45-0bc5-4831-9979-d2390ad3517b log: shoot url success: http://www.csdn.net
+[2015-02-27 15:09:53.129] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:10:44.231] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:10:44.405] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:10:44.414] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:10:44.417] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:10:44.431] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:10:44.439] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:10:44.440] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:10:44.444] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:10:44.452] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:10:44.457] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:10:44.849] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:10:46.614] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:10:46.617] [DEBUG] normal - connection ce9d9f45-0bc5-4831-9979-d2390ad3517b log: shoot url: http://www.csdn.net
+[2015-02-27 15:11:07.611] [DEBUG] normal - connection ce9d9f45-0bc5-4831-9979-d2390ad3517b log: time: 20993
+[2015-02-27 15:11:07.612] [DEBUG] normal - connection ce9d9f45-0bc5-4831-9979-d2390ad3517b log: shoot url success: http://www.csdn.net
+[2015-02-27 15:11:07.614] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:11:51.214] [INFO] normal - worker 1 has started
+[2015-02-27 15:11:51.763] [INFO] normal - init server....
+[2015-02-27 15:11:51.796] [DEBUG] normal - init task manager.....
+[2015-02-27 15:11:51.798] [DEBUG] normal - init worker manager....
+[2015-02-27 15:11:51.812] [DEBUG] normal - create phantomjs worker 11736
+[2015-02-27 15:11:51.827] [INFO] normal - server has listened at port 3000
+[2015-02-27 15:11:51.829] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-02-27 15:11:54.130] [DEBUG] normal - new connection: ab76d7e8-545e-4739-ad57-43c94e5d7e96
+[2015-02-27 15:12:11.349] [DEBUG] normal - GET 200 /html/index.html
+[2015-02-27 15:12:11.514] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-02-27 15:12:11.518] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-02-27 15:12:11.522] [DEBUG] normal - GET 200 /css/main.css
+[2015-02-27 15:12:11.530] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-02-27 15:12:11.541] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-02-27 15:12:11.584] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-02-27 15:12:11.588] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-02-27 15:12:11.591] [DEBUG] normal - GET 200 /js/main.js
+[2015-02-27 15:12:11.595] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-02-27 15:12:11.895] [DEBUG] normal - GET 200 /fonts/iconFont.woff
+[2015-02-27 15:12:13.283] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:12:13.292] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url: http://www.csdn.net
+[2015-02-27 15:12:42.281] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: time: 28984
+[2015-02-27 15:12:42.282] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url success: http://www.csdn.net
+[2015-02-27 15:12:42.284] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:14:03.547] [DEBUG] normal - GET 200 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 15:14:03.795] [DEBUG] normal - GET 304 /images/85744c99db060c2d468b869d9a6a5d7dad07b1ba.png
+[2015-02-27 15:14:06.940] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:14:06.945] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url: http://www.csdn.net
+[2015-02-27 15:14:25.000] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: time: 18047
+[2015-02-27 15:14:25.001] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url success: http://www.csdn.net
+[2015-02-27 15:14:25.003] [DEBUG] normal - GET 200 /shoots/85744c99db060c2d468b869d9a6a5d7dad07b1ba
+[2015-02-27 15:14:39.195] [DEBUG] normal - GET 304 /fonts/metroSysIcons.woff
+[2015-02-27 15:14:57.963] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:14:57.969] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url: http://www.baidu.com
+[2015-02-27 15:15:01.735] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: time: 3749
+[2015-02-27 15:15:01.735] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url success: http://www.baidu.com
+[2015-02-27 15:15:01.737] [DEBUG] normal - GET 200 /shoots/3aea3a37a3f6b889057c71c084e6d151ec86e701
+[2015-02-27 15:15:01.773] [DEBUG] normal - GET 200 /images/3aea3a37a3f6b889057c71c084e6d151ec86e701.png
+[2015-02-27 15:15:08.495] [DEBUG] normal - POST 200 /shoots
+[2015-02-27 15:15:08.502] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url: http://www.sina.com
+[2015-02-27 15:15:30.623] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: time: 22114
+[2015-02-27 15:15:30.624] [DEBUG] normal - connection ab76d7e8-545e-4739-ad57-43c94e5d7e96 log: shoot url success: http://www.sina.com
+[2015-02-27 15:15:30.626] [DEBUG] normal - GET 200 /shoots/3170296f1f6ef5430d99b8c970bcc737f2003086
+[2015-02-27 15:15:30.693] [DEBUG] normal - GET 200 /images/3170296f1f6ef5430d99b8c970bcc737f2003086.png

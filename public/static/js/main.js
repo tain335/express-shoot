@@ -4,7 +4,8 @@
 	$("#shoot").on('click', function() {
 		var timer = getTimer('.timer').start();
 		$('.loading').show();
-		client.shoot($("#url").val(), function(task) {
+		client.shoot($("#url").val(), options, 
+		function(task) {
 			if(task.status === 4) {
 				var img = document.createElement('img');
 				img.onload = function() {
@@ -17,12 +18,18 @@
 				}
 				img.src = task.src;
 				timer.stop();
+			} else if(task.status === 1) {
+
 			} else if(task.status === 2) {
 				$('.loading').hide();
 				timer.stop();
-				$.Notify.show("Cannot take screen shoot for: " + task.message).close(1000);
+				$.Notify.show('Cannot take screen shoot').close(1000);
 			}
-		}, options);
+		}, function(err) {
+			$('.loading').hide();
+			timer.stop();
+			$.Notify.show('Cannot take screen shoot').close(1000);
+		});
 	});
 	$('#url').on('keyup', function(evt) {
 		if(evt.keyCode === 13) {

@@ -5,20 +5,122 @@
 2 info using npm@1.4.28
 3 info using node@v0.10.35
 4 verbose node symlink D:\nodejs\\node.exe
-5 error install Couldn't read dependencies
-6 error Failed to parse json
-6 error Unexpected token }
-7 error File: E:\git\express-shoot\package.json
-8 error Failed to parse package.json data.
-8 error package.json must be actual JSON, not just JavaScript.
-8 error
-8 error This is not a bug in npm.
-8 error Tell the package author to fix their package.json file. JSON.parse
-9 error System Windows_NT 6.1.7601
-10 error command "D:\\nodejs\\\\node.exe" "D:\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
-11 error cwd E:\git\express-shoot
-12 error node -v v0.10.35
-13 error npm -v 1.4.28
-14 error file E:\git\express-shoot\package.json
-15 error code EJSONPARSE
-16 verbose exit [ 1, true ]
+5 warn package.json express-shoot@0.0.2 No repository field.
+6 warn package.json express-shoot@0.0.2 No README data
+7 verbose readDependencies using package.json deps
+8 verbose install where, deps [ 'E:\\git\\express-shoot',
+8 verbose install   [ 'express',
+8 verbose install     'q',
+8 verbose install     'uuid',
+8 verbose install     'log4js',
+8 verbose install     'redis',
+8 verbose install     'ws',
+8 verbose install     'cookie-parser',
+8 verbose install     'express-session',
+8 verbose install     'body-parser',
+8 verbose install     'method-override',
+8 verbose install     'serve-favicon',
+8 verbose install     'crc',
+8 verbose install     'connect-tiemout' ] ]
+9 info preinstall express-shoot@0.0.2
+10 verbose readDependencies using package.json deps
+11 verbose already installed skipping express@~4.10.0 E:\git\express-shoot
+12 verbose already installed skipping q@~1.0.1 E:\git\express-shoot
+13 verbose already installed skipping uuid@~2.0.1 E:\git\express-shoot
+14 verbose already installed skipping log4js@~0.6.21 E:\git\express-shoot
+15 verbose already installed skipping redis@~0.12.1 E:\git\express-shoot
+16 verbose already installed skipping ws@~0.7.1 E:\git\express-shoot
+17 verbose already installed skipping cookie-parser@* E:\git\express-shoot
+18 verbose already installed skipping express-session@* E:\git\express-shoot
+19 verbose already installed skipping body-parser@* E:\git\express-shoot
+20 verbose already installed skipping method-override@* E:\git\express-shoot
+21 verbose already installed skipping serve-favicon@* E:\git\express-shoot
+22 verbose already installed skipping crc@* E:\git\express-shoot
+23 verbose cache add [ 'connect-tiemout@*', null ]
+24 verbose cache add name=undefined spec="connect-tiemout@*" args=["connect-tiemout@*",null]
+25 verbose parsed url { protocol: null,
+25 verbose parsed url   slashes: null,
+25 verbose parsed url   auth: null,
+25 verbose parsed url   host: null,
+25 verbose parsed url   port: null,
+25 verbose parsed url   hostname: null,
+25 verbose parsed url   hash: null,
+25 verbose parsed url   search: null,
+25 verbose parsed url   query: null,
+25 verbose parsed url   pathname: 'connect-tiemout@*',
+25 verbose parsed url   path: 'connect-tiemout@*',
+25 verbose parsed url   href: 'connect-tiemout@*' }
+26 verbose cache add name="connect-tiemout" spec="*" args=["connect-tiemout","*"]
+27 verbose parsed url { protocol: null,
+27 verbose parsed url   slashes: null,
+27 verbose parsed url   auth: null,
+27 verbose parsed url   host: null,
+27 verbose parsed url   port: null,
+27 verbose parsed url   hostname: null,
+27 verbose parsed url   hash: null,
+27 verbose parsed url   search: null,
+27 verbose parsed url   query: null,
+27 verbose parsed url   pathname: '*',
+27 verbose parsed url   path: '*',
+27 verbose parsed url   href: '*' }
+28 verbose addNamed [ 'connect-tiemout', '*' ]
+29 verbose addNamed [ null, '*' ]
+30 silly lockFile e69cc19b-connect-tiemout connect-tiemout@*
+31 verbose lock connect-tiemout@* C:\Users\mixmedia\AppData\Roaming\npm-cache\e69cc19b-connect-tiemout.lock
+32 silly addNameRange { name: 'connect-tiemout', range: '*', hasData: false }
+33 verbose request where is /connect-tiemout
+34 verbose request registry https://registry.npmjs.org/
+35 verbose request id 80f2fbc9a4d481d5
+36 verbose url raw /connect-tiemout
+37 verbose url resolving [ 'https://registry.npmjs.org/', './connect-tiemout' ]
+38 verbose url resolved https://registry.npmjs.org/connect-tiemout
+39 verbose request where is https://registry.npmjs.org/connect-tiemout
+40 info trying registry request attempt 1 at 12:05:06
+41 http GET https://registry.npmjs.org/connect-tiemout
+42 http 404 https://registry.npmjs.org/connect-tiemout
+43 verbose headers { date: 'Fri, 27 Feb 2015 04:05:07 GMT',
+43 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+43 verbose headers   'content-type': 'application/json',
+43 verbose headers   'cache-control': 'max-age=0',
+43 verbose headers   'content-length': '52',
+43 verbose headers   'accept-ranges': 'bytes',
+43 verbose headers   via: '1.1 varnish',
+43 verbose headers   age: '0',
+43 verbose headers   'x-served-by': 'cache-nrt6133-NRT',
+43 verbose headers   'x-cache': 'MISS',
+43 verbose headers   'x-cache-hits': '0',
+43 verbose headers   'x-timer': 'S1425009906.526873,VS0,VE507',
+43 verbose headers   'keep-alive': 'timeout=10, max=50',
+43 verbose headers   connection: 'Keep-Alive' }
+44 silly registry.get cb [ 404,
+44 silly registry.get   { date: 'Fri, 27 Feb 2015 04:05:07 GMT',
+44 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+44 silly registry.get     'content-type': 'application/json',
+44 silly registry.get     'cache-control': 'max-age=0',
+44 silly registry.get     'content-length': '52',
+44 silly registry.get     'accept-ranges': 'bytes',
+44 silly registry.get     via: '1.1 varnish',
+44 silly registry.get     age: '0',
+44 silly registry.get     'x-served-by': 'cache-nrt6133-NRT',
+44 silly registry.get     'x-cache': 'MISS',
+44 silly registry.get     'x-cache-hits': '0',
+44 silly registry.get     'x-timer': 'S1425009906.526873,VS0,VE507',
+44 silly registry.get     'keep-alive': 'timeout=10, max=50',
+44 silly registry.get     connection: 'Keep-Alive' } ]
+45 silly lockFile e69cc19b-connect-tiemout connect-tiemout@*
+46 silly lockFile e69cc19b-connect-tiemout connect-tiemout@*
+47 error 404 404 Not Found: connect-tiemout
+47 error 404
+47 error 404 'connect-tiemout' is not in the npm registry.
+47 error 404 You should bug the author to publish it
+47 error 404 It was specified as a dependency of 'express-shoot'
+47 error 404
+47 error 404 Note that you can also install from a
+47 error 404 tarball, folder, or http url, or git url.
+48 error System Windows_NT 6.1.7601
+49 error command "D:\\nodejs\\\\node.exe" "D:\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+50 error cwd E:\git\express-shoot
+51 error node -v v0.10.35
+52 error npm -v 1.4.28
+53 error code E404
+54 verbose exit [ 1, true ]
