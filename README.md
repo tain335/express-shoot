@@ -7,4 +7,4 @@ index page
 ![image](https://github.com/tain335/express-shoot/blob/master/screenshoots/index.jpg)
 
 test page
-![image](https://github.com/tain335/express-shoot/blob/master/screenshoots/index.jpg)
+![image](https://github.com/tain335/express-shoot/blob/master/screenshoots/test.jpg)
