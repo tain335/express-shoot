@@ -148,7 +148,8 @@
 				var client = new ShooterCli("/shoots"),
 					$imgBlock = $(imgBlockTpl);
 				$('.img-grid').append($imgBlock);
-				client.shoot('http://www.qq.com', options, 
+				options.nocache = true;
+				client.shoot('http://www.baidu.com', options, 
 					function(task) {
 						if(task.status === 4) {
 							var img = $imgBlock.find('img')[0]; 
