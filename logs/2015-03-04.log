@@ -1,0 +1,151 @@
+[2015-03-04 18:23:11.988] [INFO] normal - worker 1 has started
+[2015-03-04 18:23:12.450] [INFO] normal - init server....
+[2015-03-04 18:23:12.477] [DEBUG] normal - init task manager.....
+[2015-03-04 18:23:12.479] [DEBUG] normal - init worker manager....
+[2015-03-04 18:23:12.502] [DEBUG] normal - create phantomjs worker 8660
+[2015-03-04 18:23:12.509] [INFO] normal - server has listened at port 3000
+[2015-03-04 18:23:12.513] [DEBUG] normal - redis client connect server: 127.0.0.1:6379 successfully!
+[2015-03-04 18:23:14.804] [DEBUG] normal - new connection: 55324e12-7623-4090-851d-c6fb8d81b70b
+[2015-03-04 18:23:19.677] [DEBUG] normal - GET 200 /html/test.html
+[2015-03-04 18:23:19.809] [DEBUG] normal - GET 200 /css/metro-bootstrap.min.css
+[2015-03-04 18:23:19.813] [DEBUG] normal - GET 200 /css/iconFont.min.css
+[2015-03-04 18:23:19.821] [DEBUG] normal - GET 200 /css/main.css
+[2015-03-04 18:23:19.833] [DEBUG] normal - GET 200 /js/jquery/main.js
+[2015-03-04 18:23:19.843] [DEBUG] normal - GET 200 /js/jquery-ui/main.js
+[2015-03-04 18:23:19.855] [DEBUG] normal - GET 200 /js/metro/main.js
+[2015-03-04 18:23:19.865] [DEBUG] normal - GET 200 /js/shooter-cli/main.js
+[2015-03-04 18:23:21.927] [DEBUG] normal - GET 200 /favicon.ico
+[2015-03-04 18:23:24.077] [DEBUG] normal - GET 200 /images/loading.gif
+[2015-03-04 18:23:24.117] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:23:24.119] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:23:26.729] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 8b0b89b7-7fac-4a90-a3d4-a7a46495d6e7
+[2015-03-04 18:23:26.730] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 0edc200f-aa7b-40d3-b58d-0c86da98ebee
+[2015-03-04 18:23:27.143] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 8b0b89b7-7fac-4a90-a3d4-a7a46495d6e7<>fail
+[2015-03-04 18:23:27.143] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://finance.qq.com/mall/hmzt/jxjj.htm
+[2015-03-04 18:23:27.145] [DEBUG] normal - GET 200 /shoots/8b0b89b7-7fac-4a90-a3d4-a7a46495d6e7
+[2015-03-04 18:23:28.661] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 0edc200f-aa7b-40d3-b58d-0c86da98ebee<>success
+[2015-03-04 18:23:30.925] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: 0edc200f-aa7b-40d3-b58d-0c86da98ebee
+[2015-03-04 18:23:30.926] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 6801
+[2015-03-04 18:23:30.926] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: 0edc200f-aa7b-40d3-b58d-0c86da98ebee
+[2015-03-04 18:23:30.928] [DEBUG] normal - GET 200 /shoots/0edc200f-aa7b-40d3-b58d-0c86da98ebee
+[2015-03-04 18:23:30.968] [DEBUG] normal - GET 200 /images/0edc200f-aa7b-40d3-b58d-0c86da98ebee.png
+[2015-03-04 18:25:17.383] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:17.387] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: e2ab3fe5-f4b6-48ab-8e18-961babf2f1dc
+[2015-03-04 18:25:17.392] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:17.395] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: ca5676d4-44fd-427d-911f-4431c31c8e68
+[2015-03-04 18:25:17.400] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:17.403] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 21a21a6d-1cd0-4706-83a5-d89955e69d22
+[2015-03-04 18:25:18.864] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: ca5676d4-44fd-427d-911f-4431c31c8e68<>success
+[2015-03-04 18:25:19.974] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: e2ab3fe5-f4b6-48ab-8e18-961babf2f1dc<>success
+[2015-03-04 18:25:21.030] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: ca5676d4-44fd-427d-911f-4431c31c8e68
+[2015-03-04 18:25:21.031] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 3637
+[2015-03-04 18:25:21.032] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: ca5676d4-44fd-427d-911f-4431c31c8e68
+[2015-03-04 18:25:21.034] [DEBUG] normal - GET 200 /shoots/ca5676d4-44fd-427d-911f-4431c31c8e68
+[2015-03-04 18:25:21.071] [DEBUG] normal - GET 200 /images/ca5676d4-44fd-427d-911f-4431c31c8e68.png
+[2015-03-04 18:25:21.860] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 21a21a6d-1cd0-4706-83a5-d89955e69d22<>success
+[2015-03-04 18:25:22.143] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: e2ab3fe5-f4b6-48ab-8e18-961babf2f1dc
+[2015-03-04 18:25:22.144] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 4756
+[2015-03-04 18:25:22.144] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: e2ab3fe5-f4b6-48ab-8e18-961babf2f1dc
+[2015-03-04 18:25:22.147] [DEBUG] normal - GET 200 /shoots/e2ab3fe5-f4b6-48ab-8e18-961babf2f1dc
+[2015-03-04 18:25:22.170] [DEBUG] normal - GET 200 /images/e2ab3fe5-f4b6-48ab-8e18-961babf2f1dc.png
+[2015-03-04 18:25:25.228] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: 21a21a6d-1cd0-4706-83a5-d89955e69d22
+[2015-03-04 18:25:25.229] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 7825
+[2015-03-04 18:25:25.231] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: 21a21a6d-1cd0-4706-83a5-d89955e69d22
+[2015-03-04 18:25:25.233] [DEBUG] normal - GET 200 /shoots/21a21a6d-1cd0-4706-83a5-d89955e69d22
+[2015-03-04 18:25:25.270] [DEBUG] normal - GET 200 /images/21a21a6d-1cd0-4706-83a5-d89955e69d22.png
+[2015-03-04 18:25:29.242] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:29.247] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 9c7521f9-5598-4e8d-a39a-d698ced3aa7e
+[2015-03-04 18:25:29.270] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:29.274] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: f8310400-9752-461b-b360-9b1d13a9b90d
+[2015-03-04 18:25:29.280] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:29.283] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: d2a8f654-938f-4b07-9a9b-77083c8c3266
+[2015-03-04 18:25:31.285] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: d2a8f654-938f-4b07-9a9b-77083c8c3266<>fail
+[2015-03-04 18:25:31.286] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://cul.qq.com/a/20150303/060111.htm
+[2015-03-04 18:25:31.288] [DEBUG] normal - GET 200 /shoots/d2a8f654-938f-4b07-9a9b-77083c8c3266
+[2015-03-04 18:25:36.527] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: f8310400-9752-461b-b360-9b1d13a9b90d<>success
+[2015-03-04 18:25:37.939] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 9c7521f9-5598-4e8d-a39a-d698ced3aa7e<>success
+[2015-03-04 18:25:39.104] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: f8310400-9752-461b-b360-9b1d13a9b90d
+[2015-03-04 18:25:39.104] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 9828
+[2015-03-04 18:25:39.105] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: f8310400-9752-461b-b360-9b1d13a9b90d
+[2015-03-04 18:25:39.107] [DEBUG] normal - GET 200 /shoots/f8310400-9752-461b-b360-9b1d13a9b90d
+[2015-03-04 18:25:39.143] [DEBUG] normal - GET 200 /images/f8310400-9752-461b-b360-9b1d13a9b90d.png
+[2015-03-04 18:25:40.794] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: 9c7521f9-5598-4e8d-a39a-d698ced3aa7e
+[2015-03-04 18:25:40.795] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 11546
+[2015-03-04 18:25:40.795] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: 9c7521f9-5598-4e8d-a39a-d698ced3aa7e
+[2015-03-04 18:25:40.797] [DEBUG] normal - GET 200 /shoots/9c7521f9-5598-4e8d-a39a-d698ced3aa7e
+[2015-03-04 18:25:40.824] [DEBUG] normal - GET 200 /images/9c7521f9-5598-4e8d-a39a-d698ced3aa7e.png
+[2015-03-04 18:25:44.614] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:44.618] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 92d003da-9c16-4928-b7ed-866ff6e4a07d
+[2015-03-04 18:25:44.624] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:44.627] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 300bfdf3-4cc8-4fbd-8eb3-85b9a5cb7567
+[2015-03-04 18:25:44.635] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:44.640] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 3151ac51-bed3-4aff-90e4-ab6258101312
+[2015-03-04 18:25:46.617] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 92d003da-9c16-4928-b7ed-866ff6e4a07d<>fail
+[2015-03-04 18:25:46.618] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://mygd.qq.com/t-604324-1.htm
+[2015-03-04 18:25:46.619] [DEBUG] normal - GET 200 /shoots/92d003da-9c16-4928-b7ed-866ff6e4a07d
+[2015-03-04 18:25:46.632] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 300bfdf3-4cc8-4fbd-8eb3-85b9a5cb7567<>fail
+[2015-03-04 18:25:46.633] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://fashion.qq.com/a/20150304/007380.htm
+[2015-03-04 18:25:46.635] [DEBUG] normal - GET 200 /shoots/300bfdf3-4cc8-4fbd-8eb3-85b9a5cb7567
+[2015-03-04 18:25:46.650] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 3151ac51-bed3-4aff-90e4-ab6258101312<>fail
+[2015-03-04 18:25:46.650] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://rufodao.qq.com/a/20150303/051123.htm
+[2015-03-04 18:25:46.652] [DEBUG] normal - GET 200 /shoots/3151ac51-bed3-4aff-90e4-ab6258101312
+[2015-03-04 18:25:55.177] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:55.181] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: a7901aee-22ea-44a6-a366-0b4d4ff2c813
+[2015-03-04 18:25:55.187] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:55.190] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: e80d9c66-893b-4bdb-82eb-891f1fb3d501
+[2015-03-04 18:25:55.197] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:25:55.201] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: fde481be-95bf-4262-be08-93a6e4853fe7
+[2015-03-04 18:25:57.180] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: a7901aee-22ea-44a6-a366-0b4d4ff2c813<>fail
+[2015-03-04 18:25:57.180] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://gd.qq.com/a/20150304/012490.htm
+[2015-03-04 18:25:57.182] [DEBUG] normal - GET 200 /shoots/a7901aee-22ea-44a6-a366-0b4d4ff2c813
+[2015-03-04 18:25:57.212] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: fde481be-95bf-4262-be08-93a6e4853fe7<>fail
+[2015-03-04 18:25:57.212] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://class.qq.com/category/8.html
+[2015-03-04 18:25:57.213] [DEBUG] normal - GET 200 /shoots/fde481be-95bf-4262-be08-93a6e4853fe7
+[2015-03-04 18:26:02.880] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: e80d9c66-893b-4bdb-82eb-891f1fb3d501<>success
+[2015-03-04 18:26:05.248] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: e80d9c66-893b-4bdb-82eb-891f1fb3d501
+[2015-03-04 18:26:05.249] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 10056
+[2015-03-04 18:26:05.249] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: e80d9c66-893b-4bdb-82eb-891f1fb3d501
+[2015-03-04 18:26:05.255] [DEBUG] normal - GET 200 /shoots/e80d9c66-893b-4bdb-82eb-891f1fb3d501
+[2015-03-04 18:26:05.275] [DEBUG] normal - GET 200 /images/e80d9c66-893b-4bdb-82eb-891f1fb3d501.png
+[2015-03-04 18:26:07.620] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:26:07.623] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 4595498c-8165-4cdb-9215-c67282b13cb0
+[2015-03-04 18:26:07.630] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:26:07.634] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 3f8f8e39-79e2-4d41-a9d6-0eecd2540461
+[2015-03-04 18:26:07.634] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 3f8f8e39-79e2-4d41-a9d6-0eecd2540461<>success
+[2015-03-04 18:26:07.639] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:26:07.643] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 5f48122c-9c68-4fb7-a894-e06600a53dc1
+[2015-03-04 18:26:09.630] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 4595498c-8165-4cdb-9215-c67282b13cb0<>fail
+[2015-03-04 18:26:09.631] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://cul.qq.com/a/20150304/008819.htm
+[2015-03-04 18:26:09.632] [DEBUG] normal - GET 200 /shoots/4595498c-8165-4cdb-9215-c67282b13cb0
+[2015-03-04 18:26:09.750] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: 3f8f8e39-79e2-4d41-a9d6-0eecd2540461
+[2015-03-04 18:26:09.750] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 2118
+[2015-03-04 18:26:09.751] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: 3f8f8e39-79e2-4d41-a9d6-0eecd2540461
+[2015-03-04 18:26:09.756] [DEBUG] normal - GET 200 /shoots/3f8f8e39-79e2-4d41-a9d6-0eecd2540461
+[2015-03-04 18:26:09.785] [DEBUG] normal - GET 200 /images/3f8f8e39-79e2-4d41-a9d6-0eecd2540461.png
+[2015-03-04 18:26:12.565] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: 5f48122c-9c68-4fb7-a894-e06600a53dc1<>success
+[2015-03-04 18:26:14.842] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: 5f48122c-9c68-4fb7-a894-e06600a53dc1
+[2015-03-04 18:26:14.843] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 7199
+[2015-03-04 18:26:14.844] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: 5f48122c-9c68-4fb7-a894-e06600a53dc1
+[2015-03-04 18:26:14.846] [DEBUG] normal - GET 200 /shoots/5f48122c-9c68-4fb7-a894-e06600a53dc1
+[2015-03-04 18:26:14.877] [DEBUG] normal - GET 200 /images/5f48122c-9c68-4fb7-a894-e06600a53dc1.png
+[2015-03-04 18:26:16.444] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:26:16.447] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: c6bc1d7a-0e5b-4abf-8e29-d3289a03a6aa
+[2015-03-04 18:26:16.468] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:26:16.470] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: f5197081-6cc5-4a48-982d-f6a4659d9f97
+[2015-03-04 18:26:16.477] [DEBUG] normal - POST 200 /shoots
+[2015-03-04 18:26:16.480] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: cd4dc33a-7df2-4606-9874-65108425434c
+[2015-03-04 18:26:18.488] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: cd4dc33a-7df2-4606-9874-65108425434c<>fail
+[2015-03-04 18:26:18.489] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot url fail: http://tech.qq.com/a/20150304/007575.htm
+[2015-03-04 18:26:18.491] [DEBUG] normal - GET 200 /shoots/cd4dc33a-7df2-4606-9874-65108425434c
+[2015-03-04 18:26:21.544] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: f5197081-6cc5-4a48-982d-f6a4659d9f97<>success
+[2015-03-04 18:26:21.562] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task: c6bc1d7a-0e5b-4abf-8e29-d3289a03a6aa<>success
+[2015-03-04 18:26:24.225] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: f5197081-6cc5-4a48-982d-f6a4659d9f97
+[2015-03-04 18:26:24.225] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 7756
+[2015-03-04 18:26:24.226] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: f5197081-6cc5-4a48-982d-f6a4659d9f97
+[2015-03-04 18:26:24.229] [DEBUG] normal - GET 200 /shoots/f5197081-6cc5-4a48-982d-f6a4659d9f97
+[2015-03-04 18:26:24.277] [DEBUG] normal - GET 200 /images/f5197081-6cc5-4a48-982d-f6a4659d9f97.png
+[2015-03-04 18:26:25.080] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task repare: c6bc1d7a-0e5b-4abf-8e29-d3289a03a6aa
+[2015-03-04 18:26:25.081] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: time: 8632
+[2015-03-04 18:26:25.081] [DEBUG] normal - connection 55324e12-7623-4090-851d-c6fb8d81b70b log: shoot task success: c6bc1d7a-0e5b-4abf-8e29-d3289a03a6aa
+[2015-03-04 18:26:25.082] [DEBUG] normal - GET 200 /shoots/c6bc1d7a-0e5b-4abf-8e29-d3289a03a6aa
+[2015-03-04 18:26:25.115] [DEBUG] normal - GET 200 /images/c6bc1d7a-0e5b-4abf-8e29-d3289a03a6aa.png

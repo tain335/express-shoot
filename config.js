@@ -35,7 +35,7 @@ module.exports =
 	    }
 	},
 	"workerManager": {
-		"workerNums": 2
+		"workerNums": 1
 	},
 	"phantomjs": {
 		"maxTasks": 50,
